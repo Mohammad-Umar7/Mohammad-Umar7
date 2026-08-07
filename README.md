@@ -327,7 +327,6 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 
 <!--START_SECTION:activity-->
 1. 🔓 Made [Mohammad-umer7/Mohammad-umer7](https://github.com/Mohammad-umer7/Mohammad-umer7) public
-2. ⭐ Starred [SigNoz/signoz](https://github.com/SigNoz/signoz)
 <!--END_SECTION:activity-->
 
 <sub>⏱ auto-refreshes every 6 hours via GitHub Actions</sub>
