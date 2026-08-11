@@ -1,6 +1,6 @@
 <!-- ──────────────────────────────────────────────────────────────── -->
 <!--  Mohammad Umar · GitHub Profile README                          -->
-<!--  Repo: Mohammad-umer7/Mohammad-umer7                            -->
+<!--  Repo: Mohammad-Umar7/Mohammad-Umar7                            -->
 <!-- ──────────────────────────────────────────────────────────────── -->
 
 <div align="center">
@@ -17,15 +17,15 @@
 
 <a href="https://www.linkedin.com/in/mohammad-umer-617401350/"><img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Umar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:omerjamaljn@gmail.com"><img src="https://img.shields.io/badge/Email-omerjamaljn%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/Mohammad-umer7"><img src="https://img.shields.io/badge/GitHub-Mohammad--umer7-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/Mohammad-Umar7"><img src="https://img.shields.io/badge/GitHub-Mohammad--Umar7-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <!-- Portfolio badge — uncomment and set URL when your portfolio site is live
 <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 -->
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Mohammad-umer7&style=flat-square&color=7c3aed&label=Profile+Views" alt="profile views" />
-<a href="https://github.com/Mohammad-umer7?tab=followers"><img src="https://img.shields.io/github/followers/Mohammad-umer7?style=flat-square&logo=github&label=Followers&color=1f6feb" alt="followers" /></a>
+<img src="https://komarev.com/ghpvc/?username=Mohammad-Umar7&style=flat-square&color=7c3aed&label=Profile+Views" alt="profile views" />
+<a href="https://github.com/Mohammad-Umar7?tab=followers"><img src="https://img.shields.io/github/followers/Mohammad-Umar7?style=flat-square&logo=github&label=Followers&color=1f6feb" alt="followers" /></a>
 <img src="https://img.shields.io/badge/Location-Abu%20Dhabi%2C%20UAE-2ea043?style=flat-square&logo=googlemaps&logoColor=white" alt="location" />
 
 </div>
@@ -64,8 +64,8 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 
 | Category | Proof of work |
 |---|---|
-| 🤖 **Agentic AI Systems** | 11-agent LangGraph govtech engine ([SADDAD](https://github.com/Mohammad-umer7/housing)), 7-agent finance coach ([ParentWise](https://github.com/Mohammad-umer7/finance)) |
-| 📚 **RAG & Knowledge Tools** | University RAG chatbot with cited answers ([demo](https://ai-university-assistant-rag-chatbot.vercel.app/)), an assistant that can *unlearn* ([Aletheia](https://github.com/Mohammad-umer7/cognee)) |
+| 🤖 **Agentic AI Systems** | 11-agent LangGraph govtech engine ([SADDAD](https://github.com/Mohammad-Umar7/housing)), 7-agent finance coach ([ParentWise](https://github.com/Mohammad-Umar7/finance)) |
+| 📚 **RAG & Knowledge Tools** | University RAG chatbot with cited answers ([demo](https://ai-university-assistant-rag-chatbot.vercel.app/)), an assistant that can *unlearn* ([Aletheia](https://github.com/Mohammad-Umar7/cognee)) |
 | 🗣️ **Voice AI** | Hands-free assistant with Whisper + Gemini ([Jarvis demo](https://jarvis-ai-voice.vercel.app/)) |
 | 🌐 **Full-Stack Web Apps** | Next.js + FastAPI products deployed on Vercel / Hugging Face Spaces |
 | 📱 **Mobile Apps** | [XPBridge](https://play.google.com/store/apps/details?id=com.xpbridge.app) — live on Google Play (React Native + Supabase) |
@@ -181,7 +181,7 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 
 ### 🏛️ SADDAD — 11-Agent AI Government Decision Engine
 
-<a href="https://github.com/Mohammad-umer7/housing"><img src="https://img.shields.io/badge/Code-housing-181717?style=flat-square&logo=github" alt="code" /></a>
+<a href="https://github.com/Mohammad-Umar7/housing"><img src="https://img.shields.io/badge/Code-housing-181717?style=flat-square&logo=github" alt="code" /></a>
 <a href="https://housing-mocha.vercel.app/login"><img src="https://img.shields.io/badge/Live-Demo-2ea043?style=flat-square&logo=vercel&logoColor=white" alt="demo" /></a>
 
 > Compresses the UAE Ministry of Energy & Infrastructure's official **5-working-day** housing-arrears review into a **sub-10-second**, fully auditable AI decision.
@@ -194,7 +194,7 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 
 ### 💰 ParentWise — 7-Agent AI Money Coach (Mobile)
 
-<a href="https://github.com/Mohammad-umer7/finance"><img src="https://img.shields.io/badge/Code-finance-181717?style=flat-square&logo=github" alt="code" /></a>
+<a href="https://github.com/Mohammad-Umar7/finance"><img src="https://img.shields.io/badge/Code-finance-181717?style=flat-square&logo=github" alt="code" /></a>
 
 > A cross-platform personal-finance app where **7 AI agents** coach parents on spending, budgets, and goals — with a local-first architecture that degrades gracefully offline.
 
@@ -254,34 +254,34 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 
 **More competition builds on this profile:**
 
-- 🗺️ **[Reach](https://github.com/Mohammad-umer7/cursor-hackathon)** — AI siting copilot for Abu Dhabi: a "15-minute city" access map that finds under-served neighborhoods and uses an LLM to recommend a *real, zoning-aware* parcel for the missing facility, then simulates the improvement live. `Next.js` `MapLibre` `H3` `Groq`
-- 🌌 **[Aletheia](https://github.com/Mohammad-umer7/cognee)** — built for the Cognee **"The Hangover Part AI"** hackathon (Best Use of Open Source track): an AI research assistant that can **unlearn** — retract a source and watch the discredited knowledge visibly die out of its graph while answers re-derive. `Cognee (self-hosted)` `Knowledge graphs`
+- 🗺️ **[Reach](https://github.com/Mohammad-Umar7/cursor-hackathon)** — AI siting copilot for Abu Dhabi: a "15-minute city" access map that finds under-served neighborhoods and uses an LLM to recommend a *real, zoning-aware* parcel for the missing facility, then simulates the improvement live. `Next.js` `MapLibre` `H3` `Groq`
+- 🌌 **[Aletheia](https://github.com/Mohammad-Umar7/cognee)** — built for the Cognee **"The Hangover Part AI"** hackathon (Best Use of Open Source track): an AI research assistant that can **unlearn** — retract a source and watch the discredited knowledge visibly die out of its graph while answers re-derive. `Cognee (self-hosted)` `Knowledge graphs`
 
 ## 🗂️ Featured Projects by Category
 
 **🤖 Agentic AI & RAG**
-- [`housing`](https://github.com/Mohammad-umer7/housing) → **SADDAD** — 11-agent govtech decision engine · [live](https://housing-mocha.vercel.app/login)
-- [`finance`](https://github.com/Mohammad-umer7/finance) → **ParentWise** — 7-agent AI money coach (Expo)
-- [`cognee`](https://github.com/Mohammad-umer7/cognee) → **Aletheia** — research assistant with auditable *unlearning*
+- [`housing`](https://github.com/Mohammad-Umar7/housing) → **SADDAD** — 11-agent govtech decision engine · [live](https://housing-mocha.vercel.app/login)
+- [`finance`](https://github.com/Mohammad-Umar7/finance) → **ParentWise** — 7-agent AI money coach (Expo)
+- [`cognee`](https://github.com/Mohammad-Umar7/cognee) → **Aletheia** — research assistant with auditable *unlearning*
 - **AI University Assistant** — cited-answer RAG chatbot · [live](https://ai-university-assistant-rag-chatbot.vercel.app/)
 
 **🗣️ Voice & Applied ML**
 - **Jarvis** — real-time voice assistant (Whisper → Gemini → TTS) · [live](https://jarvis-ai-voice.vercel.app/)
-- [`Sentiment-Analysis`](https://github.com/Mohammad-umer7/Sentiment-Analysis) → **DistilBERT sentiment classifier** (PyTorch) — [model on Hugging Face](https://huggingface.co/Mohammad-Umer7/imdb-sentiment-bert) · [live](https://sentiment-analysis-hiok.vercel.app/)
+- [`Sentiment-Analysis`](https://github.com/Mohammad-Umar7/Sentiment-Analysis) → **DistilBERT sentiment classifier** (PyTorch) — [model on Hugging Face](https://huggingface.co/Mohammad-Umer7/imdb-sentiment-bert) · [live](https://sentiment-analysis-hiok.vercel.app/)
 
 **🌐 Full-Stack Web**
-- [`cursor-hackathon`](https://github.com/Mohammad-umer7/cursor-hackathon) → **Reach** — 15-minute-city AI siting copilot for Abu Dhabi
-- [`FitForge`](https://github.com/Mohammad-umer7/FitForge) — fitness tracker with **3D exercise demos**, rep/set tracking, analytics · Supabase
+- [`cursor-hackathon`](https://github.com/Mohammad-Umar7/cursor-hackathon) → **Reach** — 15-minute-city AI siting copilot for Abu Dhabi
+- [`FitForge`](https://github.com/Mohammad-Umar7/FitForge) — fitness tracker with **3D exercise demos**, rep/set tracking, analytics · Supabase
 - **Fashion Store** — responsive e-commerce demo (Next.js + Tailwind) · [live](https://fashion-store-demo-seven.vercel.app)
 
 **📱 Mobile**
 - **XPBridge** — founder-built app, [live on Google Play](https://play.google.com/store/apps/details?id=com.xpbridge.app)
 
 **🦾 Robotics & IoT**
-- [`spot-controller`](https://github.com/Mohammad-umer7/spot-controller) / [`spot-controller1`](https://github.com/Mohammad-umer7/spot-controller1) — **Boston Dynamics Spot** control experiments from my EDGE Group internship
+- [`spot-controller`](https://github.com/Mohammad-Umar7/spot-controller) / [`spot-controller1`](https://github.com/Mohammad-Umar7/spot-controller1) — **Boston Dynamics Spot** control experiments from my EDGE Group internship
 
 **🧪 Playground**
-- [`research`](https://github.com/Mohammad-umer7/research) — active experiments and scratch work
+- [`research`](https://github.com/Mohammad-Umar7/research) — active experiments and scratch work
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
@@ -289,36 +289,36 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohammad-umer7&theme=tokyonight" height="185" alt="GitHub stats" />
-<img src="https://streak-stats.demolab.com?user=Mohammad-umer7&theme=tokyonight&hide_border=true&background=1A1B26" height="185" alt="contribution streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohammad-Umar7&theme=tokyonight" height="185" alt="GitHub stats" />
+<img src="https://streak-stats.demolab.com?user=Mohammad-Umar7&theme=tokyonight&hide_border=true&background=1A1B26" height="185" alt="contribution streak" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohammad-umer7&theme=tokyonight" height="185" alt="top languages by repo" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohammad-umer7&theme=tokyonight" height="185" alt="top languages by commit" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohammad-Umar7&theme=tokyonight" height="185" alt="top languages by repo" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohammad-Umar7&theme=tokyonight" height="185" alt="top languages by commit" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohammad-umer7&theme=tokyonight" width="94%" alt="profile summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohammad-Umar7&theme=tokyonight" width="94%" alt="profile summary" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammad-umer7&theme=tokyo-night&hide_border=true&area=true" width="94%" alt="contribution graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammad-Umar7&theme=tokyo-night&hide_border=true&area=true" width="94%" alt="contribution graph" />
 
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohammad-umer7/Mohammad-umer7/output/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohammad-umer7/Mohammad-umer7/output/profile-season-animate.svg" />
-  <img src="https://raw.githubusercontent.com/Mohammad-umer7/Mohammad-umer7/output/profile-night-rainbow.svg" width="94%" alt="3D contribution graph" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohammad-Umar7/Mohammad-Umar7/output/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohammad-Umar7/Mohammad-Umar7/output/profile-season-animate.svg" />
+  <img src="https://raw.githubusercontent.com/Mohammad-Umar7/Mohammad-Umar7/output/profile-night-rainbow.svg" width="94%" alt="3D contribution graph" />
 </picture>
 
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohammad-umer7/Mohammad-umer7/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohammad-umer7/Mohammad-umer7/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/Mohammad-umer7/Mohammad-umer7/output/github-contribution-grid-snake-dark.svg" width="94%" alt="contribution snake" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohammad-Umar7/Mohammad-Umar7/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohammad-Umar7/Mohammad-Umar7/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Mohammad-Umar7/Mohammad-Umar7/output/github-contribution-grid-snake-dark.svg" width="94%" alt="contribution snake" />
 </picture>
 
 </div>
@@ -326,8 +326,11 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [brightdata/cli](https://github.com/brightdata/cli)
-2. 🔓 Made [Mohammad-umer7/Mohammad-umer7](https://github.com/Mohammad-umer7/Mohammad-umer7) public
+1. 🔓 Made [Mohammad-Umar7/Mohammad-Umar7](https://github.com/Mohammad-Umar7/Mohammad-Umar7) public
+2. ⭐ Starred [SigNoz/signoz](https://github.com/SigNoz/signoz)
+3. 🔓 Made [Mohammad-Umar7/cognee](https://github.com/Mohammad-Umar7/cognee) public
+4. ⭐ Starred [topoteretes/cognee](https://github.com/topoteretes/cognee)
+5. 🔓 Made [Mohammad-Umar7/finance](https://github.com/Mohammad-Umar7/finance) public
 <!--END_SECTION:activity-->
 
 <sub>⏱ auto-refreshes every 6 hours via GitHub Actions</sub>
@@ -335,7 +338,7 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 ## 🌳 Featured Repo Map
 
 ```text
-Mohammad-umer7 · GitHub Ecosystem
+Mohammad-Umar7 · GitHub Ecosystem
 │
 ├── 🤖 Agentic AI & RAG
 │   ├── housing              → SADDAD · 11-agent government decision engine
@@ -371,7 +374,7 @@ I'm open to conversations with **recruiters**, **founders**, **engineers**, **re
 
 <a href="mailto:omerjamaljn@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-omerjamaljn%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 <a href="https://www.linkedin.com/in/mohammad-umer-617401350/"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/Mohammad-umer7"><img src="https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/Mohammad-Umar7"><img src="https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://huggingface.co/Mohammad-Umer7"><img src="https://img.shields.io/badge/Models-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
 
 <br/><br/>
