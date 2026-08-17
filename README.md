@@ -326,7 +326,8 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [brightdata/cli](https://github.com/brightdata/cli)
+1. 🔓 Made [Mohammad-Umar7/spot-voice](https://github.com/Mohammad-Umar7/spot-voice) public
+2. ⭐ Starred [brightdata/cli](https://github.com/brightdata/cli)
 <!--END_SECTION:activity-->
 
 <sub>⏱ auto-refreshes every 6 hours via GitHub Actions</sub>
