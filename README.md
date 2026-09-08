@@ -267,7 +267,7 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 
 **🗣️ Voice & Applied ML**
 - **Jarvis** — real-time voice assistant (Whisper → Gemini → TTS) · [live](https://jarvis-ai-voice.vercel.app/)
-- [`Sentiment-Analysis`](https://github.com/Mohammad-Umar7/Sentiment-Analysis) → **DistilBERT sentiment classifier** (PyTorch) — [model on Hugging Face](https://huggingface.co/Mohammad-Umer7/imdb-sentiment-bert) · [live](https://sentiment-analysis-hiok.vercel.app/)
+- [`Sentiment-Analysis`](https://github.com/Mohammad-Umar7/Sentiment-Analysis) → **DistilBERT sentiment classifier** (PyTorch) — [model on Hugging Face](https://huggingface.co/Mohammad-Umar7/imdb-sentiment-bert) · [live](https://sentiment-analysis-hiok.vercel.app/)
 
 **🌐 Full-Stack Web**
 - [`cursor-hackathon`](https://github.com/Mohammad-Umar7/cursor-hackathon) → **Reach** — 15-minute-city AI siting copilot for Abu Dhabi
@@ -373,7 +373,7 @@ I'm open to conversations with **recruiters**, **founders**, **engineers**, **re
 <a href="mailto:omerjamaljn@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-omerjamaljn%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 <a href="https://www.linkedin.com/in/mohammad-umer-617401350/"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/Mohammad-Umar7"><img src="https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://huggingface.co/Mohammad-Umer7"><img src="https://img.shields.io/badge/Models-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
+<a href="https://huggingface.co/Mohammad-Umar7"><img src="https://img.shields.io/badge/Models-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
 
 <br/><br/>
 
