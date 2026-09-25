@@ -326,10 +326,11 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔓 Made [Mohammad-Umar7/movies](https://github.com/Mohammad-Umar7/movies) public
-2. 🔓 Made [Mohammad-Umar7/AI-University-Assistant-RAG-Chatbot](https://github.com/Mohammad-Umar7/AI-University-Assistant-RAG-Chatbot) public
-3. 🔓 Made [Mohammad-Umar7/tamkeen-5.0-](https://github.com/Mohammad-Umar7/tamkeen-5.0-) public
-4. 🔓 Made [Mohammad-Umar7/breachpoint](https://github.com/Mohammad-Umar7/breachpoint) public
+1. 🔓 Made [Mohammad-Umar7/CareLoop](https://github.com/Mohammad-Umar7/CareLoop) public
+2. 🔓 Made [Mohammad-Umar7/movies](https://github.com/Mohammad-Umar7/movies) public
+3. 🔓 Made [Mohammad-Umar7/AI-University-Assistant-RAG-Chatbot](https://github.com/Mohammad-Umar7/AI-University-Assistant-RAG-Chatbot) public
+4. 🔓 Made [Mohammad-Umar7/tamkeen-5.0-](https://github.com/Mohammad-Umar7/tamkeen-5.0-) public
+5. 🔓 Made [Mohammad-Umar7/breachpoint](https://github.com/Mohammad-Umar7/breachpoint) public
 <!--END_SECTION:activity-->
 
 <sub>⏱ auto-refreshes every 6 hours via GitHub Actions</sub>
