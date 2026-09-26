@@ -7,8 +7,8 @@
 
 <!-- Banner: a real ray-traced black hole (source + build script in assets/event-horizon/) -->
 <picture>
-  <source type="image/avif" srcset="https://raw.githubusercontent.com/Mohammad-Umar7/Mohammad-Umar7/main/assets/banner-event-horizon.avif" />
-  <img src="assets/banner-event-horizon.webp" width="100%" alt="Mohammad Umar — Chief AI Officer @ Kanban Studios · agentic AI · RAG · voice AI · full-stack — a ray-traced black hole whose golden accretion disk swirls around the event horizon, its far side bent over the top by gravitational lensing" />
+  <source type="image/avif" srcset="https://raw.githubusercontent.com/Mohammad-Umar7/Mohammad-Umar7/main/assets/banner-event-horizon.avif?v=2" />
+  <img src="assets/banner-event-horizon.webp" width="100%" alt="Mohammad Umar — Chief AI Officer @ Kanban Studios · agentic AI · RAG · voice AI · full-stack — an animated, ray-traced black hole: the camera swoops through the plane of its swirling golden accretion disk while flares orbit and lensed starlight streams around the event horizon" />
 </picture>
 
 <h3>Chief AI Officer @ Kanban Studios — I design multi-agent AI systems and ship them as real products.</h3>
