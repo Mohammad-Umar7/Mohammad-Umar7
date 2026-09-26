@@ -5,7 +5,11 @@
 
 <div align="center">
 
-<img src="assets/banner-sunset-garden.svg" width="100%" alt="Mohammad Umar — Chief AI Officer @ Kanban Studios · agentic ai · full-stack · industry 4.0/5.0 · 6x competition podiums — polished cartoon banner with a smiling sun, laptop buddy, hovering AI robot, and a rocket" />
+<!-- Banner: a real ray-traced black hole (source + build script in assets/event-horizon/) -->
+<picture>
+  <source type="image/avif" srcset="https://raw.githubusercontent.com/Mohammad-Umar7/Mohammad-Umar7/main/assets/banner-event-horizon.avif" />
+  <img src="assets/banner-event-horizon.webp" width="100%" alt="Mohammad Umar — Chief AI Officer @ Kanban Studios · agentic AI · RAG · voice AI · full-stack — a ray-traced black hole whose golden accretion disk swirls around the event horizon, its far side bent over the top by gravitational lensing" />
+</picture>
 
 <h3>Chief AI Officer @ Kanban Studios — I design multi-agent AI systems and ship them as real products.</h3>
 
