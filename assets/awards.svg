@@ -1,5 +1,5 @@
-<svg width="1000" height="730" viewBox="0 0 1000 730" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Competition record: 1st place Tamkeen 5.0, 1st place Replit x IEC Buildathon, 2nd place Emirates Agriculture Hackathon, 3rd place c0mpiled-2, Finalist Global Build Challenge, Recognized Create Apps Championship, 2nd place Safe AI Cup 2026 BridgeLab AI">
-  <title>Competition Record — 7 podiums and honors</title>
+<svg width="1000" height="730" viewBox="0 0 1000 730" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Competition record: 1st place INSPIRE '26 University Track (AeroHalo), 1st place Tamkeen 5.0, 1st place Replit x IEC Buildathon, 2nd place Emirates Agriculture Hackathon, 2nd place Safe AI Cup 2026 BridgeLab AI, 3rd place c0mpiled-2, Finalist Global Build Challenge, Recognized Create Apps Championship">
+  <title>Competition Record — 8 podiums and honors</title>
 
   <defs>
     <linearGradient id="mGold" x1="0" y1="0" x2="1" y2="1">
@@ -21,10 +21,6 @@
 
   <style>
     text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; }
-    @keyframes fadeUp { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
-    .tile { animation: fadeUp .7s cubic-bezier(.22,.61,.36,1) both; }
-    .t1{animation-delay:.05s} .t2{animation-delay:.15s} .t3{animation-delay:.25s}
-    .t4{animation-delay:.35s} .t5{animation-delay:.45s} .t6{animation-delay:.55s} .t7{animation-delay:.65s}
     @keyframes spark { 0%,100% { opacity: .15; } 50% { opacity: .95; } }
     .spk { animation: spark 2.4s ease-in-out infinite; }
     .spk2 { animation-delay: -1.2s; }
@@ -32,7 +28,7 @@
   </style>
 
   <!-- Row 1: gold, gold -->
-  <g transform="translate(10,10)"><g class="tile t1">
+  <g transform="translate(10,10)">
     <rect width="480" height="160" rx="18" fill="#0c1222" stroke="#1e2a44" stroke-width="1.2"/>
     <rect x="0" y="0" width="5" height="160" rx="2.5" fill="url(#mGold)"/>
     <path d="M46 22 H58 L55 50 H44 Z" fill="#263250"/>
@@ -41,12 +37,11 @@
     <circle cx="58" cy="86" r="25" fill="none" stroke="rgba(255,255,255,0.28)" stroke-width="1.2" stroke-dasharray="2 4"/>
     <text x="58" y="96" text-anchor="middle" font-size="28" font-weight="800" fill="#422006">1</text>
     <path class="spk" transform="translate(86,52)" d="M0 -6 L1.7 -1.7 L6 0 L1.7 1.7 L0 6 L-1.7 1.7 L-6 0 L-1.7 -1.7 Z" fill="#ffffff"/>
-    <text x="110" y="52" font-size="14" font-weight="700" letter-spacing="0.6" fill="#dbe4f3">TAMKEEN 5.0 — G42 × AD YOUTH COUNCIL</text>
-    <text x="110" y="84" font-size="19" font-weight="800" fill="#fcd34d">Agentic Refund Intelligence</text>
-    <text x="110" y="112" font-size="13" fill="#8b9bb4">1st Place · Advanced Track · Agentic AI</text>
-  </g></g>
-
-  <g transform="translate(510,10)"><g class="tile t2">
+    <text x="110" y="52" font-size="14" font-weight="700" letter-spacing="0.6" fill="#dbe4f3">INSPIRE ’26 — IEEE SSCS AUS CHAPTER</text>
+    <text x="110" y="84" font-size="19" font-weight="800" fill="#fcd34d">AeroHalo</text>
+    <text x="110" y="112" font-size="13" fill="#8b9bb4">1st Place · University Track · predictive airside safety</text>
+  </g>
+  <g transform="translate(510,10)">
     <rect width="480" height="160" rx="18" fill="#0c1222" stroke="#1e2a44" stroke-width="1.2"/>
     <rect x="0" y="0" width="5" height="160" rx="2.5" fill="url(#mGold)"/>
     <path d="M46 22 H58 L55 50 H44 Z" fill="#263250"/>
@@ -55,13 +50,26 @@
     <circle cx="58" cy="86" r="25" fill="none" stroke="rgba(255,255,255,0.28)" stroke-width="1.2" stroke-dasharray="2 4"/>
     <text x="58" y="96" text-anchor="middle" font-size="28" font-weight="800" fill="#422006">1</text>
     <path class="spk spk2" transform="translate(86,52)" d="M0 -6 L1.7 -1.7 L6 0 L1.7 1.7 L0 6 L-1.7 1.7 L-6 0 L-1.7 -1.7 Z" fill="#ffffff"/>
+    <text x="110" y="52" font-size="14" font-weight="700" letter-spacing="0.6" fill="#dbe4f3">TAMKEEN 5.0 — G42 × AD YOUTH COUNCIL</text>
+    <text x="110" y="84" font-size="19" font-weight="800" fill="#fcd34d">Agentic Refund Intelligence</text>
+    <text x="110" y="112" font-size="13" fill="#8b9bb4">1st Place · Advanced Track · Agentic AI</text>
+  </g>
+
+  <!-- Row 2: gold, silver -->
+  <g transform="translate(10,190)">
+    <rect width="480" height="160" rx="18" fill="#0c1222" stroke="#1e2a44" stroke-width="1.2"/>
+    <rect x="0" y="0" width="5" height="160" rx="2.5" fill="url(#mGold)"/>
+    <path d="M46 22 H58 L55 50 H44 Z" fill="#263250"/>
+    <path d="M58 22 H70 L72 50 H61 Z" fill="#1d2b4a"/>
+    <circle cx="58" cy="86" r="34" fill="url(#mGold)" stroke="#0c1222" stroke-width="2"/>
+    <circle cx="58" cy="86" r="25" fill="none" stroke="rgba(255,255,255,0.28)" stroke-width="1.2" stroke-dasharray="2 4"/>
+    <text x="58" y="96" text-anchor="middle" font-size="28" font-weight="800" fill="#422006">1</text>
+    <path class="spk" transform="translate(86,52)" d="M0 -6 L1.7 -1.7 L6 0 L1.7 1.7 L0 6 L-1.7 1.7 L-6 0 L-1.7 -1.7 Z" fill="#ffffff"/>
     <text x="110" y="52" font-size="14" font-weight="700" letter-spacing="0.6" fill="#dbe4f3">REPLIT × IEC BUILDATHON — MBZUAI</text>
     <text x="110" y="84" font-size="19" font-weight="800" fill="#fcd34d">Starkz AI</text>
     <text x="110" y="112" font-size="13" fill="#8b9bb4">1st Place · AI safety companion for outdoor crews</text>
-  </g></g>
-
-  <!-- Row 2: silver, bronze -->
-  <g transform="translate(10,190)"><g class="tile t3">
+  </g>
+  <g transform="translate(510,190)">
     <rect width="480" height="160" rx="18" fill="#0c1222" stroke="#1e2a44" stroke-width="1.2"/>
     <rect x="0" y="0" width="5" height="160" rx="2.5" fill="url(#mSilver)"/>
     <path d="M46 22 H58 L55 50 H44 Z" fill="#263250"/>
@@ -72,9 +80,22 @@
     <text x="110" y="52" font-size="14" font-weight="700" letter-spacing="0.6" fill="#dbe4f3">EMIRATES AGRICULTURE HACKATHON 2026</text>
     <text x="110" y="84" font-size="19" font-weight="800" fill="#e2e8f0">SooqRoot</text>
     <text x="110" y="112" font-size="13" fill="#8b9bb4">2nd Place · awarded by UAE Climate Minister</text>
-  </g></g>
+  </g>
 
-  <g transform="translate(510,190)"><g class="tile t4">
+  <!-- Row 3: silver, bronze -->
+  <g transform="translate(10,370)">
+    <rect width="480" height="160" rx="18" fill="#0c1222" stroke="#1e2a44" stroke-width="1.2"/>
+    <rect x="0" y="0" width="5" height="160" rx="2.5" fill="url(#mSilver)"/>
+    <path d="M46 22 H58 L55 50 H44 Z" fill="#263250"/>
+    <path d="M58 22 H70 L72 50 H61 Z" fill="#1d2b4a"/>
+    <circle cx="58" cy="86" r="34" fill="url(#mSilver)" stroke="#0c1222" stroke-width="2"/>
+    <circle cx="58" cy="86" r="25" fill="none" stroke="rgba(255,255,255,0.3)" stroke-width="1.2" stroke-dasharray="2 4"/>
+    <text x="58" y="96" text-anchor="middle" font-size="28" font-weight="800" fill="#1e293b">2</text>
+    <text x="110" y="52" font-size="14" font-weight="700" letter-spacing="0.6" fill="#dbe4f3">SAFE AI CUP 2026 — UNIVERSITY OF DUBAI</text>
+    <text x="110" y="84" font-size="19" font-weight="800" fill="#e2e8f0">BridgeLab AI</text>
+    <text x="110" y="112" font-size="13" fill="#8b9bb4">2nd Place · bilingual EN/AR STEM lab coach</text>
+  </g>
+  <g transform="translate(510,370)">
     <rect width="480" height="160" rx="18" fill="#0c1222" stroke="#1e2a44" stroke-width="1.2"/>
     <rect x="0" y="0" width="5" height="160" rx="2.5" fill="url(#mBronze)"/>
     <path d="M46 22 H58 L55 50 H44 Z" fill="#263250"/>
@@ -85,10 +106,10 @@
     <text x="110" y="52" font-size="14" font-weight="700" letter-spacing="0.6" fill="#dbe4f3">C0MPILED-2 HACKATHON — UAE</text>
     <text x="110" y="84" font-size="19" font-weight="800" fill="#fdba74">Kanban Team</text>
     <text x="110" y="112" font-size="13" fill="#8b9bb4">3rd Place · Yas Marina Circuit · 60+ submissions</text>
-  </g></g>
+  </g>
 
-  <!-- Row 3: finalist, recognized -->
-  <g transform="translate(10,370)"><g class="tile t5">
+  <!-- Row 4: finalist, recognized -->
+  <g transform="translate(10,550)">
     <rect width="480" height="160" rx="18" fill="#0c1222" stroke="#1e2a44" stroke-width="1.2"/>
     <rect x="0" y="0" width="5" height="160" rx="2.5" fill="url(#mSteel)"/>
     <path d="M46 22 H58 L55 50 H44 Z" fill="#263250"/>
@@ -99,9 +120,8 @@
     <text x="110" y="52" font-size="14" font-weight="700" letter-spacing="0.6" fill="#dbe4f3">GLOBAL BUILD CHALLENGE — SOCIA</text>
     <text x="110" y="84" font-size="19" font-weight="800" fill="#93c5fd">Common Ground</text>
     <text x="110" y="112" font-size="13" fill="#8b9bb4">Finalist · Notch Launch 2026</text>
-  </g></g>
-
-  <g transform="translate(510,370)"><g class="tile t6">
+  </g>
+  <g transform="translate(510,550)">
     <rect width="480" height="160" rx="18" fill="#0c1222" stroke="#1e2a44" stroke-width="1.2"/>
     <rect x="0" y="0" width="5" height="160" rx="2.5" fill="url(#mViolet)"/>
     <path d="M46 22 H58 L55 50 H44 Z" fill="#263250"/>
@@ -112,20 +132,5 @@
     <text x="110" y="52" font-size="14" font-weight="700" letter-spacing="0.6" fill="#dbe4f3">CREATE APPS CHAMPIONSHIP 2025–26</text>
     <text x="110" y="84" font-size="19" font-weight="800" fill="#c4b5fd">Team Mobile App</text>
     <text x="110" y="112" font-size="13" fill="#8b9bb4">Recognized · Dubai Chamber of Digital Economy</text>
-  </g></g>
-
-  <!-- Row 4: silver (centered) -->
-  <g transform="translate(260,550)"><g class="tile t7">
-    <rect width="480" height="160" rx="18" fill="#0c1222" stroke="#1e2a44" stroke-width="1.2"/>
-    <rect x="0" y="0" width="5" height="160" rx="2.5" fill="url(#mSilver)"/>
-    <path d="M46 22 H58 L55 50 H44 Z" fill="#263250"/>
-    <path d="M58 22 H70 L72 50 H61 Z" fill="#1d2b4a"/>
-    <circle cx="58" cy="86" r="34" fill="url(#mSilver)" stroke="#0c1222" stroke-width="2"/>
-    <circle cx="58" cy="86" r="25" fill="none" stroke="rgba(255,255,255,0.3)" stroke-width="1.2" stroke-dasharray="2 4"/>
-    <text x="58" y="96" text-anchor="middle" font-size="28" font-weight="800" fill="#1e293b">2</text>
-    <path class="spk" transform="translate(86,52)" d="M0 -6 L1.7 -1.7 L6 0 L1.7 1.7 L0 6 L-1.7 1.7 L-6 0 L-1.7 -1.7 Z" fill="#ffffff"/>
-    <text x="110" y="52" font-size="14" font-weight="700" letter-spacing="0.6" fill="#dbe4f3">SAFE AI CUP 2026 — UNIVERSITY OF DUBAI</text>
-    <text x="110" y="84" font-size="19" font-weight="800" fill="#e2e8f0">BridgeLab AI</text>
-    <text x="110" y="112" font-size="13" fill="#8b9bb4">2nd Place · bilingual EN/AR STEM lab coach</text>
-  </g></g>
+  </g>
 </svg>
