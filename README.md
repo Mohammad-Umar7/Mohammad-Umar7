@@ -71,13 +71,13 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 
 | Category | Proof of work |
 |---|---|
-| 🤖 **Agentic AI Systems** | 11-agent LangGraph govtech engine ([SADDAD](https://github.com/Mohammad-Umar7/housing)), 7-agent finance coach ([ParentWise](https://github.com/Mohammad-Umar7/finance)) |
+| 🤖 **Agentic AI Systems** | 11-agent LangGraph govtech engine ([SADDAD](https://github.com/Mohammad-Umar7/housing)), a browser agent that turns one demonstration into a reusable, undoable automation ([repeat](https://github.com/Mohammad-Umar7/repeat)), live detection of coordinated AI-agent swarms ([mirage](https://github.com/Mohammad-Umar7/mirage)) |
 | 📚 **RAG & Knowledge Tools** | University RAG chatbot with cited answers ([demo](https://ai-university-assistant-rag-chatbot.vercel.app/)), an assistant that can *unlearn* ([Aletheia](https://github.com/Mohammad-Umar7/cognee)) |
 | 🏥 **Health AI** | Post-discharge patient follow-up on WhatsApp, in five languages, with triage and nurse escalation ([CareLoop](https://github.com/Mohammad-Umar7/CareLoop) · [live](https://careloop-rust.vercel.app)) |
 | 👁️ **Computer Vision & On-Device ML** | Driver-fatigue detection with a CNN trained from scratch: 98.66% on unseen subjects, plus a native Android port ([drowsy-driver-detection](https://github.com/Mohammad-Umar7/drowsy-driver-detection)) |
 | 🗣️ **Voice AI** | Hands-free assistant with Whisper + Gemini ([Jarvis demo](https://jarvis-ai-voice.vercel.app/)) |
 | 🌐 **Full-Stack Web Apps** | Next.js + FastAPI products deployed on Vercel / Hugging Face Spaces |
-| 📱 **Mobile Apps** | [XPBridge](https://play.google.com/store/apps/details?id=com.xpbridge.app) — live on Google Play (React Native + Supabase) |
+| 📱 **Mobile Apps** | [XPBridge](https://play.google.com/store/apps/details?id=com.xpbridge.app) — live on Google Play (React Native + Supabase); [ParentWise](https://github.com/Mohammad-Umar7/finance) — family money coach with Gemini features (Expo) |
 | 🏭 **Industrial Automation & Digital Twins** | ASRS 2.0 smart-warehouse HMIs, Three.js digital twin, Boston Dynamics Spot programming @ EDGE Group |
 | 📄 **Research** | IEEE-published: explainable requirement-defect screening across 79+ SRS documents ([IEEE REW 2026](https://ieeexplore.ieee.org/document/11677830)) |
 | ⚡ **Hackathon Prototypes** | 9+ competition builds — creator-economy video intelligence, edge-AI airside safety, fraud intelligence, worker safety, food security, real-estate compliance, bilingual STEM education |
@@ -237,16 +237,16 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 - ⚙️ `PyTorch` `OpenCV` `MediaPipe` `ONNX` `Kotlin` `Android`
 - 💡 **Why it matters:** honest evaluation. A random split would have scored higher and then failed on a real face.
 
-### 💰 ParentWise — 7-Agent AI Money Coach (Mobile)
+### 💰 ParentWise — AI Family Money Coach (Mobile · Hackathon Team Build)
 
 <a href="https://github.com/Mohammad-Umar7/finance"><img src="https://img.shields.io/badge/Code-finance-181717?style=flat-square&logo=github" alt="code" /></a>
 
-> A cross-platform personal-finance app where **7 AI agents** coach parents on spending, budgets, and goals — with a local-first architecture that degrades gracefully offline.
+> A money app for parents in the UAE, built with a teammate at a hackathon. Spending, goals, loans and kids' chores live on the phone, with Gemini-powered helpers on top.
 
-- **Agents →** streaming chat coach, receipt OCR, purchase-risk guard, deal finder, investment advisor, and contextual spending nudges.
-- **Engineering →** pnpm monorepo with shared Zod schemas and a typed API client; on-device AsyncStorage keeps transactions, budgets, and goals private.
-- ⚙️ `React Native (Expo)` `expo-router` `Express` `Gemini 2.5 Flash` `Zod` `TypeScript monorepo`
-- 💡 **Why it matters:** privacy-first AI on mobile — the agents adapt to connectivity instead of assuming it.
+- **AI features →** a streaming chat coach that answers from the family's own numbers; receipt scanning with Gemini vision; a "should I buy this?" check that runs a purchase verdict and a deal finder in parallel; and a next-month forecast grounded in Google Search, where the model proposes percentages and the server does the arithmetic.
+- **Engineering →** a pnpm monorepo (Expo app + Express 5 API) built around one OpenAPI contract. Orval generates both the typed client and the server's Zod request validation. When the AI is unavailable, the coach falls back to rules and the forecast to three-month averages.
+- ⚙️ `React Native (Expo)` `expo-router` `Express` `Gemini 2.5 Flash` `OpenAPI + Orval` `TypeScript monorepo`
+- 💡 **Why it matters:** the family's data stays on the device (AsyncStorage). Only a receipt photo or a text summary leaves it, and only when an AI feature is used.
 
 ### 🎙️ Jarvis — Real-Time AI Voice Assistant
 
@@ -309,7 +309,8 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 
 **🤖 Agentic AI & RAG**
 - [`housing`](https://github.com/Mohammad-Umar7/housing) → **SADDAD** — 11-agent govtech decision engine · [live](https://housing-mocha.vercel.app/login)
-- [`finance`](https://github.com/Mohammad-Umar7/finance) → **ParentWise** — 7-agent AI money coach (Expo)
+- [`repeat`](https://github.com/Mohammad-Umar7/repeat) → browser agent: show a workflow once, then press Tab to replay it, with one undo slider for the whole run
+- [`mirage`](https://github.com/Mohammad-Umar7/mirage) → Sybil resistance under AI-agent swarms: live coordination detection with evidence, plus correlation-weighted on-chain voting
 - [`cognee`](https://github.com/Mohammad-Umar7/cognee) → **Aletheia** — research assistant with auditable *unlearning*
 - [`AI-University-Assistant-RAG-Chatbot`](https://github.com/Mohammad-Umar7/AI-University-Assistant-RAG-Chatbot) → **AI University Assistant** — cited-answer RAG chatbot (Qdrant + Groq) · [live](https://ai-university-assistant-rag-chatbot.vercel.app/)
 
@@ -327,6 +328,7 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 
 **📱 Mobile**
 - **XPBridge** — founder-built app, [live on Google Play](https://play.google.com/store/apps/details?id=com.xpbridge.app)
+- [`finance`](https://github.com/Mohammad-Umar7/finance) → **ParentWise** — family money app for UAE parents with Gemini chat, receipt scanning and forecasts (Expo) · hackathon team build
 
 **🦾 Robotics & IoT**
 - [`spot-controller1`](https://github.com/Mohammad-Umar7/spot-controller1) — **Boston Dynamics Spot** movement and docking scripts from my EDGE Group internship
@@ -394,7 +396,8 @@ Mohammad-Umar7 · GitHub Ecosystem
 │
 ├── 🤖 Agentic AI & RAG
 │   ├── housing                  → SADDAD · 11-agent government decision engine
-│   ├── finance                  → ParentWise · 7-agent AI money coach
+│   ├── repeat                   → browser agent that learns from one demonstration
+│   ├── mirage                   → detects coordinated AI-agent swarms, live
 │   └── cognee                   → Aletheia · the assistant that can unlearn
 │
 ├── 🏥 Health AI
@@ -409,7 +412,8 @@ Mohammad-Umar7 · GitHub Ecosystem
 │   └── cursor-hackathon         → Reach · AI siting copilot for Abu Dhabi
 │
 ├── 📱 Mobile
-│   └── (XPBridge)               → live on Google Play
+│   ├── (XPBridge)               → live on Google Play
+│   └── finance                  → ParentWise · Gemini money coach for parents
 │
 ├── 🦾 Robotics & IoT
 │   ├── spot-controller1         → Spot movement & docking scripts (EDGE Group)
