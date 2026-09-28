@@ -73,6 +73,8 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 |---|---|
 | 🤖 **Agentic AI Systems** | 11-agent LangGraph govtech engine ([SADDAD](https://github.com/Mohammad-Umar7/housing)), 7-agent finance coach ([ParentWise](https://github.com/Mohammad-Umar7/finance)) |
 | 📚 **RAG & Knowledge Tools** | University RAG chatbot with cited answers ([demo](https://ai-university-assistant-rag-chatbot.vercel.app/)), an assistant that can *unlearn* ([Aletheia](https://github.com/Mohammad-Umar7/cognee)) |
+| 🏥 **Health AI** | Post-discharge patient follow-up on WhatsApp, in five languages, with triage and nurse escalation ([CareLoop](https://github.com/Mohammad-Umar7/CareLoop) · [live](https://careloop-rust.vercel.app)) |
+| 👁️ **Computer Vision & On-Device ML** | Driver-fatigue detection with a CNN trained from scratch: 98.66% on unseen subjects, plus a native Android port ([drowsy-driver-detection](https://github.com/Mohammad-Umar7/drowsy-driver-detection)) |
 | 🗣️ **Voice AI** | Hands-free assistant with Whisper + Gemini ([Jarvis demo](https://jarvis-ai-voice.vercel.app/)) |
 | 🌐 **Full-Stack Web Apps** | Next.js + FastAPI products deployed on Vercel / Hugging Face Spaces |
 | 📱 **Mobile Apps** | [XPBridge](https://play.google.com/store/apps/details?id=com.xpbridge.app) — live on Google Play (React Native + Supabase) |
@@ -101,6 +103,7 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
 <img src="https://img.shields.io/badge/XGBoost-EB0028?style=flat-square" alt="XGBoost" />
 <img src="https://img.shields.io/badge/ChromaDB-5E35B1?style=flat-square" alt="ChromaDB" />
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white" alt="Qdrant" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
 
@@ -209,6 +212,31 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 - ⚙️ `Next.js 16` `TypeScript` `LangGraph` `LangChain` `Groq · Llama 3.3 70B` `Supabase (Postgres + RLS)` `pdfjs-dist` `Twilio`
 - 💡 **Why it matters:** a working template for the UAE Federal Government's directive that AI handle 50% of services — with the audit trail regulators actually require.
 
+### 🏥 CareLoop — Post-Discharge Patient Follow-Up on WhatsApp
+
+<a href="https://github.com/Mohammad-Umar7/CareLoop"><img src="https://img.shields.io/badge/Code-CareLoop-181717?style=flat-square&logo=github" alt="code" /></a>
+<a href="https://careloop-rust.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-2ea043?style=flat-square&logo=vercel&logoColor=white" alt="demo" /></a>
+
+> A follow-up loop for UAE hospitals that patients never have to install: their care plan, a check-in every night, and answers on WhatsApp in their own language, with a nurse alerted the moment a warning sign appears.
+
+- **Flow →** a nurse uploads the discharge letter; Gemini 2.5 Flash reads it into a care plan the nurse approves; the patient receives it on WhatsApp in one of five languages. Questions are answered strictly from their own discharge instructions.
+- **Safety →** symptom reports and voice notes are triaged against the patient's own warning signs. Red means a critical alert and an urgent reply, and emergency keywords escalate instantly. If the model is down, a reported symptom is still acknowledged and escalated.
+- **Engineering →** multi-tenant Supabase (Postgres 17 + Row Level Security), Vercel Cron + `pg_cron` scheduling, and 11 check suites, including 139 Arabic phrasings for the intent classifier and an end-to-end webhook test against an in-memory Supabase.
+- ⚙️ `Next.js 16` `React 19` `TypeScript` `Supabase` `Twilio WhatsApp` `Gemini 2.5 Flash` `Vercel`
+- 💡 **Why it matters:** healthcare AI has to fail safe. Every path, including a model outage, ends with a human seeing the warning sign.
+
+### 👁️ Drowsy Driver Detection — Real-Time Fatigue Detection, On Device
+
+<a href="https://github.com/Mohammad-Umar7/drowsy-driver-detection"><img src="https://img.shields.io/badge/Code-drowsy--driver--detection-181717?style=flat-square&logo=github" alt="code" /></a>
+
+> Driver-fatigue detection from a plain webcam or phone. A CNN trained from scratch and facial geometry are fused over time into PERCLOS, the automotive fatigue standard, so ordinary blinks never set off the alarm.
+
+- **Model →** a 139k-parameter CNN trained on 85k infrared eye images with **subject-wise splits** (no data leakage): **98.66% accuracy and 0.997 ROC-AUC on 6 people it has never seen**. The threshold is chosen for recall, and the weaker subgroup (glasses, 95.35%) is reported, not hidden.
+- **System →** MediaPipe landmarks (eye and mouth openness, head pose) are fused with the CNN in a state machine covered by 70 simulated-time tests. Adaptive night and sun correction raises lighting robustness from 5/7 to 7/7 conditions.
+- **On device →** a native Android port (Kotlin + ONNX) that requests only `CAMERA` and `VIBRATE`, so "runs entirely on the phone" is enforced by the OS. It has its own 22-test JVM suite and a parity check against the Python version.
+- ⚙️ `PyTorch` `OpenCV` `MediaPipe` `ONNX` `Kotlin` `Android`
+- 💡 **Why it matters:** honest evaluation. A random split would have scored higher and then failed on a real face.
+
 ### 💰 ParentWise — 7-Agent AI Money Coach (Mobile)
 
 <a href="https://github.com/Mohammad-Umar7/finance"><img src="https://img.shields.io/badge/Code-finance-181717?style=flat-square&logo=github" alt="code" /></a>
@@ -232,12 +260,13 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 
 ### 📚 AI University Assistant — RAG Chatbot with Cited Answers
 
+<a href="https://github.com/Mohammad-Umar7/AI-University-Assistant-RAG-Chatbot"><img src="https://img.shields.io/badge/Code-AI--University--Assistant-181717?style=flat-square&logo=github" alt="code" /></a>
 <a href="https://ai-university-assistant-rag-chatbot.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-2ea043?style=flat-square&logo=vercel&logoColor=white" alt="demo" /></a>
 
 > Answers university-specific questions with **grounded, cited responses** pulled from real documents — not hallucinated ones.
 
-- **Retrieval →** sentence-transformer embeddings in ChromaDB; LangChain orchestrates retrieval + Gemini generation.
-- ⚙️ `Next.js` `FastAPI` `LangChain` `ChromaDB` `Gemini API` — deployed on `Vercel` + `Render`
+- **Retrieval →** FastEmbed (`bge-small-en-v1.5`) embeddings in Qdrant Cloud; the best-matching sections go to Llama 3.3 70B on Groq, and every answer returns the sources it used.
+- ⚙️ `React` `Vite` `FastAPI` `Qdrant` `FastEmbed` `Groq · Llama 3.3 70B` — frontend on `Vercel`
 - 💡 **Why it matters:** citation-grounded RAG is the pattern every serious org needs before trusting an LLM with domain questions.
 
 ### 📱 XPBridge — Live on Google Play
@@ -282,25 +311,29 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 - [`housing`](https://github.com/Mohammad-Umar7/housing) → **SADDAD** — 11-agent govtech decision engine · [live](https://housing-mocha.vercel.app/login)
 - [`finance`](https://github.com/Mohammad-Umar7/finance) → **ParentWise** — 7-agent AI money coach (Expo)
 - [`cognee`](https://github.com/Mohammad-Umar7/cognee) → **Aletheia** — research assistant with auditable *unlearning*
-- **AI University Assistant** — cited-answer RAG chatbot · [live](https://ai-university-assistant-rag-chatbot.vercel.app/)
+- [`AI-University-Assistant-RAG-Chatbot`](https://github.com/Mohammad-Umar7/AI-University-Assistant-RAG-Chatbot) → **AI University Assistant** — cited-answer RAG chatbot (Qdrant + Groq) · [live](https://ai-university-assistant-rag-chatbot.vercel.app/)
 
-**🗣️ Voice & Applied ML**
+**🏥 Health AI**
+- [`CareLoop`](https://github.com/Mohammad-Umar7/CareLoop) → WhatsApp post-discharge follow-up with triage and nurse escalation · [live](https://careloop-rust.vercel.app)
+
+**👁️ Vision, Voice & Applied ML**
+- [`drowsy-driver-detection`](https://github.com/Mohammad-Umar7/drowsy-driver-detection) → real-time driver-fatigue detection: CNN + PERCLOS, 98.66% on unseen subjects, native Android port
 - **Jarvis** — real-time voice assistant (Whisper → Gemini → TTS) · [live](https://jarvis-ai-voice.vercel.app/)
 - [`Sentiment-Analysis`](https://github.com/Mohammad-Umar7/Sentiment-Analysis) → **DistilBERT sentiment classifier** (PyTorch) — [model on Hugging Face](https://huggingface.co/Mohammad-Umar7/imdb-sentiment-bert) · [live](https://sentiment-analysis-hiok.vercel.app/)
 
 **🌐 Full-Stack Web**
 - [`cursor-hackathon`](https://github.com/Mohammad-Umar7/cursor-hackathon) → **Reach** — 15-minute-city AI siting copilot for Abu Dhabi
-- [`FitForge`](https://github.com/Mohammad-Umar7/FitForge) — fitness tracker with **3D exercise demos**, rep/set tracking, analytics · Supabase
 - **Fashion Store** — responsive e-commerce demo (Next.js + Tailwind) · [live](https://fashion-store-demo-seven.vercel.app)
 
 **📱 Mobile**
 - **XPBridge** — founder-built app, [live on Google Play](https://play.google.com/store/apps/details?id=com.xpbridge.app)
 
 **🦾 Robotics & IoT**
-- [`spot-controller`](https://github.com/Mohammad-Umar7/spot-controller) / [`spot-controller1`](https://github.com/Mohammad-Umar7/spot-controller1) — **Boston Dynamics Spot** control experiments from my EDGE Group internship
+- [`spot-controller1`](https://github.com/Mohammad-Umar7/spot-controller1) — **Boston Dynamics Spot** movement and docking scripts from my EDGE Group internship
+- [`spot-digital-twin`](https://github.com/Mohammad-Umar7/spot-digital-twin) — rigged, animated Spot model for browser digital twins: 17 SDK-named joints, 7 animation clips, Three.js-ready
 
-**🧪 Playground**
-- [`research`](https://github.com/Mohammad-Umar7/research) — active experiments and scratch work
+**🔬 Research**
+- [`research`](https://github.com/Mohammad-Umar7/research) — Multilingual Trust-Debt pilot: reproducible experiments on cross-lingual trust gaps in small open-weight LLMs
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
@@ -360,27 +393,30 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 Mohammad-Umar7 · GitHub Ecosystem
 │
 ├── 🤖 Agentic AI & RAG
-│   ├── housing              → SADDAD · 11-agent government decision engine
-│   ├── finance              → ParentWise · 7-agent AI money coach
-│   └── cognee               → Aletheia · the assistant that can unlearn
+│   ├── housing                  → SADDAD · 11-agent government decision engine
+│   ├── finance                  → ParentWise · 7-agent AI money coach
+│   └── cognee                   → Aletheia · the assistant that can unlearn
 │
-├── 🗣️ Voice & Applied ML
-│   ├── Sentiment-Analysis   → DistilBERT classifier · weights on Hugging Face
-│   └── (Jarvis)             → live voice assistant · jarvis-ai-voice.vercel.app
+├── 🏥 Health AI
+│   └── CareLoop                 → WhatsApp post-discharge follow-up · live
+│
+├── 👁️ Vision, Voice & Applied ML
+│   ├── drowsy-driver-detection  → on-device driver-fatigue detection · Android
+│   ├── Sentiment-Analysis       → DistilBERT classifier · weights on Hugging Face
+│   └── (Jarvis)                 → live voice assistant · jarvis-ai-voice.vercel.app
 │
 ├── 🌐 Full-Stack Web
-│   ├── cursor-hackathon     → Reach · AI siting copilot for Abu Dhabi
-│   └── FitForge             → 3D fitness tracker · Supabase
+│   └── cursor-hackathon         → Reach · AI siting copilot for Abu Dhabi
 │
 ├── 📱 Mobile
-│   └── (XPBridge)           → live on Google Play
+│   └── (XPBridge)               → live on Google Play
 │
 ├── 🦾 Robotics & IoT
-│   ├── spot-controller      → Boston Dynamics Spot experiments (EDGE Group)
-│   └── spot-controller1
+│   ├── spot-controller1         → Spot movement & docking scripts (EDGE Group)
+│   └── spot-digital-twin        → rigged, animated Spot model for Three.js twins
 │
-└── 🧪 Playground
-    └── research             → active experiments
+└── 🔬 Research
+    └── research                 → Multilingual Trust-Debt pilot (LLM evaluation)
 ```
 
 <img src="assets/divider.svg" width="100%" alt="" />
