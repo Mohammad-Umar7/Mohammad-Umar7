@@ -71,13 +71,13 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 
 | Category | Proof of work |
 |---|---|
-| 🤖 **Agentic AI Systems** | 11-agent LangGraph govtech engine ([SADDAD](https://github.com/Mohammad-Umar7/housing)), a browser agent that turns one demonstration into a reusable, undoable automation ([repeat](https://github.com/Mohammad-Umar7/repeat)), live detection of coordinated AI-agent swarms ([mirage](https://github.com/Mohammad-Umar7/mirage)) |
-| 📚 **RAG & Knowledge Tools** | University RAG chatbot with cited answers ([demo](https://ai-university-assistant-rag-chatbot.vercel.app/)), an assistant that can *unlearn* ([Aletheia](https://github.com/Mohammad-Umar7/cognee)) |
+| 🤖 **Agentic AI Systems** | 11-agent LangGraph govtech engine ([SADDAD](https://github.com/Mohammad-Umar7/saddad)), a browser agent that turns one demonstration into a reusable, undoable automation ([repeat](https://github.com/Mohammad-Umar7/repeat)), live detection of coordinated AI-agent swarms ([mirage](https://github.com/Mohammad-Umar7/mirage)) |
+| 📚 **RAG & Knowledge Tools** | University RAG chatbot with cited answers ([demo](https://ai-university-assistant-rag-chatbot.vercel.app/)), an assistant that can *unlearn* ([Aletheia](https://github.com/Mohammad-Umar7/aletheia)) |
 | 🏥 **Health AI** | Post-discharge patient follow-up on WhatsApp, in five languages, with triage and nurse escalation ([CareLoop](https://github.com/Mohammad-Umar7/CareLoop) · [live](https://careloop-rust.vercel.app)) |
 | 👁️ **Computer Vision & On-Device ML** | Driver-fatigue detection with a CNN trained from scratch: 98.66% on unseen subjects, plus a native Android port ([drowsy-driver-detection](https://github.com/Mohammad-Umar7/drowsy-driver-detection)) |
 | 🗣️ **Voice AI** | Hands-free assistant with Whisper + Gemini ([Jarvis demo](https://jarvis-ai-voice.vercel.app/)) |
 | 🌐 **Full-Stack Web Apps** | Next.js + FastAPI products deployed on Vercel / Hugging Face Spaces |
-| 📱 **Mobile Apps** | [XPBridge](https://play.google.com/store/apps/details?id=com.xpbridge.app) — live on Google Play (React Native + Supabase); [ParentWise](https://github.com/Mohammad-Umar7/finance) — family money coach with Gemini features (Expo) |
+| 📱 **Mobile Apps** | [XPBridge](https://play.google.com/store/apps/details?id=com.xpbridge.app) — live on Google Play (React Native + Supabase); [ParentWise](https://github.com/Mohammad-Umar7/parentwise) — family money coach with Gemini features (Expo) |
 | 🏭 **Industrial Automation & Digital Twins** | ASRS 2.0 smart-warehouse HMIs, Three.js digital twin, Boston Dynamics Spot programming @ EDGE Group |
 | 📄 **Research** | IEEE-published: explainable requirement-defect screening across 79+ SRS documents ([IEEE REW 2026](https://ieeexplore.ieee.org/document/11677830)) |
 | ⚡ **Hackathon Prototypes** | 9+ competition builds — creator-economy video intelligence, edge-AI airside safety, fraud intelligence, worker safety, food security, real-estate compliance, bilingual STEM education |
@@ -201,7 +201,7 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 
 ### 🏛️ SADDAD — 11-Agent AI Government Decision Engine
 
-<a href="https://github.com/Mohammad-Umar7/housing"><img src="https://img.shields.io/badge/Code-housing-181717?style=flat-square&logo=github" alt="code" /></a>
+<a href="https://github.com/Mohammad-Umar7/saddad"><img src="https://img.shields.io/badge/Code-saddad-181717?style=flat-square&logo=github" alt="code" /></a>
 <a href="https://housing-mocha.vercel.app/login"><img src="https://img.shields.io/badge/Live-Demo-2ea043?style=flat-square&logo=vercel&logoColor=white" alt="demo" /></a>
 
 > Compresses the UAE Ministry of Energy & Infrastructure's official **5-working-day** housing-arrears review into a **sub-10-second**, fully auditable AI decision.
@@ -239,7 +239,7 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 
 ### 💰 ParentWise — AI Family Money Coach (Mobile · Hackathon Team Build)
 
-<a href="https://github.com/Mohammad-Umar7/finance"><img src="https://img.shields.io/badge/Code-finance-181717?style=flat-square&logo=github" alt="code" /></a>
+<a href="https://github.com/Mohammad-Umar7/parentwise"><img src="https://img.shields.io/badge/Code-parentwise-181717?style=flat-square&logo=github" alt="code" /></a>
 
 > A money app for parents in the UAE, built with a teammate at a hackathon. Spending, goals, loans and kids' chores live on the phone, with Gemini-powered helpers on top.
 
@@ -302,16 +302,16 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 
 **More competition builds on this profile:**
 
-- 🗺️ **[Reach](https://github.com/Mohammad-Umar7/cursor-hackathon)** — AI siting copilot for Abu Dhabi: a "15-minute city" access map that finds under-served neighborhoods and uses an LLM to recommend a *real, zoning-aware* parcel for the missing facility, then simulates the improvement live. `Next.js` `MapLibre` `H3` `Groq`
-- 🌌 **[Aletheia](https://github.com/Mohammad-Umar7/cognee)** — built for the Cognee **"The Hangover Part AI"** hackathon (Best Use of Open Source track): an AI research assistant that can **unlearn** — retract a source and watch the discredited knowledge visibly die out of its graph while answers re-derive. `Cognee (self-hosted)` `Knowledge graphs`
+- 🗺️ **[Reach](https://github.com/Mohammad-Umar7/reach)** — AI siting copilot for Abu Dhabi: a "15-minute city" access map that finds under-served neighborhoods and uses an LLM to recommend a *real, zoning-aware* parcel for the missing facility, then simulates the improvement live. `Next.js` `MapLibre` `H3` `Groq`
+- 🌌 **[Aletheia](https://github.com/Mohammad-Umar7/aletheia)** — built for the Cognee **"The Hangover Part AI"** hackathon (Best Use of Open Source track): an AI research assistant that can **unlearn** — retract a source and watch the discredited knowledge visibly die out of its graph while answers re-derive. `Cognee (self-hosted)` `Knowledge graphs`
 
 ## 🗂️ Featured Projects by Category
 
 **🤖 Agentic AI & RAG**
-- [`housing`](https://github.com/Mohammad-Umar7/housing) → **SADDAD** — 11-agent govtech decision engine · [live](https://housing-mocha.vercel.app/login)
+- [`saddad`](https://github.com/Mohammad-Umar7/saddad) → **SADDAD** — 11-agent govtech decision engine · [live](https://housing-mocha.vercel.app/login)
 - [`repeat`](https://github.com/Mohammad-Umar7/repeat) → browser agent: show a workflow once, then press Tab to replay it, with one undo slider for the whole run
 - [`mirage`](https://github.com/Mohammad-Umar7/mirage) → Sybil resistance under AI-agent swarms: live coordination detection with evidence, plus correlation-weighted on-chain voting
-- [`cognee`](https://github.com/Mohammad-Umar7/cognee) → **Aletheia** — research assistant with auditable *unlearning*
+- [`aletheia`](https://github.com/Mohammad-Umar7/aletheia) → **Aletheia** — research assistant with auditable *unlearning*
 - [`AI-University-Assistant-RAG-Chatbot`](https://github.com/Mohammad-Umar7/AI-University-Assistant-RAG-Chatbot) → **AI University Assistant** — cited-answer RAG chatbot (Qdrant + Groq) · [live](https://ai-university-assistant-rag-chatbot.vercel.app/)
 
 **🏥 Health AI**
@@ -323,12 +323,12 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 - [`Sentiment-Analysis`](https://github.com/Mohammad-Umar7/Sentiment-Analysis) → **DistilBERT sentiment classifier** (PyTorch) — [model on Hugging Face](https://huggingface.co/Mohammad-Umar7/imdb-sentiment-bert) · [live](https://sentiment-analysis-hiok.vercel.app/)
 
 **🌐 Full-Stack Web**
-- [`cursor-hackathon`](https://github.com/Mohammad-Umar7/cursor-hackathon) → **Reach** — 15-minute-city AI siting copilot for Abu Dhabi
+- [`reach`](https://github.com/Mohammad-Umar7/reach) → **Reach** — 15-minute-city AI siting copilot for Abu Dhabi
 - **Fashion Store** — responsive e-commerce demo (Next.js + Tailwind) · [live](https://fashion-store-demo-seven.vercel.app)
 
 **📱 Mobile**
 - **XPBridge** — founder-built app, [live on Google Play](https://play.google.com/store/apps/details?id=com.xpbridge.app)
-- [`finance`](https://github.com/Mohammad-Umar7/finance) → **ParentWise** — family money app for UAE parents with Gemini chat, receipt scanning and forecasts (Expo) · hackathon team build
+- [`parentwise`](https://github.com/Mohammad-Umar7/parentwise) → **ParentWise** — family money app for UAE parents with Gemini chat, receipt scanning and forecasts (Expo) · hackathon team build
 
 **🦾 Robotics & IoT**
 - [`spot-controller1`](https://github.com/Mohammad-Umar7/spot-controller1) — **Boston Dynamics Spot** movement and docking scripts from my EDGE Group internship
@@ -395,10 +395,10 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 Mohammad-Umar7 · GitHub Ecosystem
 │
 ├── 🤖 Agentic AI & RAG
-│   ├── housing                  → SADDAD · 11-agent government decision engine
+│   ├── saddad                   → SADDAD · 11-agent government decision engine
 │   ├── repeat                   → browser agent that learns from one demonstration
 │   ├── mirage                   → detects coordinated AI-agent swarms, live
-│   └── cognee                   → Aletheia · the assistant that can unlearn
+│   └── aletheia                 → Aletheia · the assistant that can unlearn
 │
 ├── 🏥 Health AI
 │   └── CareLoop                 → WhatsApp post-discharge follow-up · live
@@ -409,11 +409,11 @@ Mohammad-Umar7 · GitHub Ecosystem
 │   └── (Jarvis)                 → live voice assistant · jarvis-ai-voice.vercel.app
 │
 ├── 🌐 Full-Stack Web
-│   └── cursor-hackathon         → Reach · AI siting copilot for Abu Dhabi
+│   └── reach                    → Reach · AI siting copilot for Abu Dhabi
 │
 ├── 📱 Mobile
 │   ├── (XPBridge)               → live on Google Play
-│   └── finance                  → ParentWise · Gemini money coach for parents
+│   └── parentwise               → ParentWise · Gemini money coach for parents
 │
 ├── 🦾 Robotics & IoT
 │   ├── spot-controller1         → Spot movement & docking scripts (EDGE Group)
