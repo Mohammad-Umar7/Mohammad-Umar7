@@ -15,7 +15,7 @@
 
 <p>Agentic workflows · RAG & document intelligence · govtech decision engines · voice AI · industrial automation — built end-to-end, deployed, and auditable.</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&lines=Chief+AI+Officer+%40+Kanban+Studios;Agentic+AI+%C2%B7+LangGraph+%C2%B7+RAG+%C2%B7+Voice+AI;Full-Stack+%C2%B7+Next.js+%C2%B7+FastAPI+%C2%B7+Supabase;Industry+4.0%2F5.0+Automation+%40+EDGE+Group;IEEE-Published+Researcher+%40+Al+Ain+University;3%C3%97+1st-Place+Hackathon+Winner;Founder+%26+CTO+%40+XPBridge" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&lines=Chief+AI+Officer+%40+Kanban+Studios;Agentic+AI+%C2%B7+LangGraph+%C2%B7+RAG+%C2%B7+Voice+AI;Full-Stack+%C2%B7+Next.js+%C2%B7+FastAPI+%C2%B7+Supabase;Industry+4.0%2F5.0+Automation+%40+EDGE+Group;IEEE-Published+Researcher+%40+Al+Ain+University;4%C3%97+1st-Place+Hackathon+Winner;Founder+%26+CTO+%40+XPBridge" alt="typing intro" />
 
 <br/><br/>
 
@@ -64,7 +64,7 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 - 📄 **Undergraduate Researcher @ Al Ain University** — published my first **IEEE paper** at [**IEEE REW 2026**](https://ieeexplore.ieee.org/document/11677830): explainable requirement-defect screening, tested across 79+ SRS documents and 9,000+ requirement statements.
 - 🤖 My specialty is **agentic AI that can be trusted**: multi-agent pipelines with deterministic guardrails, compliance critics that can veto, fairness checks, and immutable audit logs — the boring parts done right.
 - 🎓 BSc Software Engineering @ **Al Ain University** (expected 2027) — **CGPA 3.73 / 4.00**, named to the **Honor List three consecutive semesters**.
-- 🏆 **8× competition podiums & honors** across UAE tech events — 3× 1st place (incl. G42's Tamkeen 5.0 Agentic AI track and the University Track at **INSPIRE '26**), 2× 2nd, 1× 3rd, plus finalist & championship recognition.
+- 🏆 **9× competition podiums & honors** across UAE tech events — 4× 1st place (incl. G42's Tamkeen 5.0 Agentic AI track, the University Track at **INSPIRE '26**, and 1st of 48 teams at **Oriane × Replit**'s Build for the Video Economy), 2× 2nd, 1× 3rd, plus finalist & championship recognition.
 - 🌍 I work in English, Urdu, Hindi and Pashto (fluent), plus basic Arabic — and I ship bilingual EN/AR interfaces by default.
 
 ## 🛠️ What I Build
@@ -78,7 +78,7 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 | 📱 **Mobile Apps** | [XPBridge](https://play.google.com/store/apps/details?id=com.xpbridge.app) — live on Google Play (React Native + Supabase) |
 | 🏭 **Industrial Automation & Digital Twins** | ASRS 2.0 smart-warehouse HMIs, Three.js digital twin, Boston Dynamics Spot programming @ EDGE Group |
 | 📄 **Research** | IEEE-published: explainable requirement-defect screening across 79+ SRS documents ([IEEE REW 2026](https://ieeexplore.ieee.org/document/11677830)) |
-| ⚡ **Hackathon Prototypes** | 8+ competition builds — edge-AI airside safety, fraud intelligence, worker safety, food security, real-estate compliance, bilingual STEM education |
+| ⚡ **Hackathon Prototypes** | 9+ competition builds — creator-economy video intelligence, edge-AI airside safety, fraud intelligence, worker safety, food security, real-estate compliance, bilingual STEM education |
 
 ## 🧰 Tech Toolbox
 
@@ -253,14 +253,15 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 
 <div align="center">
 
-<img src="assets/awards.svg" width="100%" alt="Competition record: 3× 1st place (INSPIRE '26 — AeroHalo, Tamkeen 5.0, Replit × IEC), 2× 2nd place (SooqRoot, BridgeLab AI), 3rd place (Kanban Team), Finalist (Common Ground), Recognized (Create Apps Championship)" />
+<img src="assets/awards.svg" width="100%" alt="Competition record: 4× 1st place (Oriane × Replit — PRE//FLIGHT, INSPIRE '26 — AeroHalo, Tamkeen 5.0, Replit × IEC), 2× 2nd place (SooqRoot, BridgeLab AI), 3rd place (Kanban Team), Finalist (Common Ground), Recognized (Create Apps Championship)" />
 
 </div>
 
-> 8+ competition builds across agentic AI, edge AI & computer vision, safety tech, education, sustainability, and fintech — in front of some of the UAE's toughest judging panels.
+> 9+ competition builds across agentic AI, edge AI & computer vision, creator-economy tools, safety tech, education, sustainability, and fintech — in front of some of the UAE's toughest judging panels.
 
 | Result | Event | Build | What it does |
 |---|---|---|---|
+| 🥇 **1st Place** (of 48 teams) | **Build for the Video Economy Hackathon** — Oriane × Replit, Dubai | **PRE//FLIGHT** | Tells brands whether their campaign idea has already been done — *before* they spend money shooting it. Paste a brief: it searches real Instagram and TikTok videos through Oriane, shows how crowded the idea is and whether it's early or late, then points to where there's still room. [Demo video →](https://www.youtube.com/watch?v=g_B3rjgLcC4) |
 | 🥇 **1st Place** (University Track) | **INSPIRE '26** — IEEE SSCS AUS Chapter, American University of Sharjah (100+ university teams from across the UAE) | **AeroHalo** | AI-powered *predictive* airside-safety system for the Smart Aviation Systems challenge. Edge AI, computer vision, and real-time sensing on an **Arduino UNO Q** keep a virtual safety perimeter around the aircraft, track what's approaching (distance, heading, closing speed), and escalate an *explainable* warning before contact. Design rule: if it fails, it fails safe — never silent. [Demo video →](https://www.youtube.com/watch?v=qttMWsiZW1k) |
 | 🥇 **1st Place** (Advanced Track) | **Tamkeen 5.0 Hackathon** — G42 × Abu Dhabi Youth Council | **Agentic Refund Intelligence** | Fraud-aware AI layer for e-commerce: investigates refund/payment disputes, scores risk, applies policy, and routes high-risk cases to humans with a full audit trail. Recognized in the presence of H.H. Sheikh Mohammed bin Khalifa Al Nahyan and H.E. Dr. Sultan Al Neyadi. [Post →](https://www.linkedin.com/feed/update/urn:li:activity:7474723190653583360/) |
 | 🥇 **1st Place** | **Replit × IEC Buildathon** — MBZUAI IEC | **Starkz AI** | Mobile AI safety companion for outdoor crews in extreme heat: real-time risk intelligence, fatigue monitoring, climate thresholds, multilingual alerts. [Post →](https://www.linkedin.com/feed/update/urn:li:activity:7471965008135049216/) |
