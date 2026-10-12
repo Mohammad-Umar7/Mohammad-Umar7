@@ -380,7 +380,7 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-_Quiet week — building in private._
+1. 🚀 Published release v1.0-neathack in [Mohammad-Umar7/neathack-agent](https://github.com/Mohammad-Umar7/neathack-agent)
 <!--END_SECTION:activity-->
 
 <sub>⏱ auto-refreshes every 6 hours via GitHub Actions</sub>
