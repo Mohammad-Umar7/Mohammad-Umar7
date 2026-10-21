@@ -28,13 +28,15 @@ jobs:
           import json, os, re, urllib.request
 
           user = os.environ["GH_USER"]
-          req = urllib.request.Request(
-              f"https://api.github.com/users/{user}/events/public?per_page=100",
-              headers={
+
+          def api(url):
+              req = urllib.request.Request(url, headers={
                   "Authorization": f"Bearer {os.environ['GITHUB_TOKEN']}",
                   "User-Agent": "profile-activity",
               })
-          events = json.load(urllib.request.urlopen(req))
+              return json.load(urllib.request.urlopen(req))
+
+          events = api(f"https://api.github.com/users/{user}/events/public?per_page=100")
 
           lines, seen = [], set()
 
@@ -42,37 +44,58 @@ jobs:
               n = e["repo"]["name"]
               return f"[{n}](https://github.com/{n})"
 
-          for e in events:
-              t = e["type"]; p = e.get("payload") or {}; line = None
+          # GitHub trims event payloads (no html_url, merged or commit list), so links
+          # are built from the repo name and number instead of read from the payload.
+          def item_link(e, kind, item):
+              url = item.get("html_url") or f"https://github.com/{e['repo']['name']}/{kind}/{item['number']}"
+              return f"[#{item['number']}]({url})"
+
+          def is_merged(pr):
+              if "merged" in pr:
+                  return pr["merged"]
+              try:
+                  return api(pr["url"]).get("merged", False)
+              except Exception:
+                  return False
+
+          def describe(e):
+              t = e["type"]; p = e.get("payload") or {}
               if t == "PushEvent":
                   n = len(p.get("commits") or [])
                   if n:
-                      line = f"⬆️ Pushed {n} commit{'s' if n > 1 else ''} to {repo_link(e)}"
-              elif t == "CreateEvent" and p.get("ref_type") == "repository":
-                  line = f"🎉 Created new repository {repo_link(e)}"
-              elif t == "WatchEvent":
-                  line = f"⭐ Starred {repo_link(e)}"
-              elif t == "ForkEvent":
-                  line = f"🍴 Forked {repo_link(e)}"
-              elif t == "ReleaseEvent" and p.get("action") == "published":
-                  line = f"🚀 Published release {p['release']['tag_name']} in {repo_link(e)}"
-              elif t == "IssuesEvent" and p.get("action") in ("opened", "closed"):
-                  i = p["issue"]; emoji = "❗️" if p["action"] == "opened" else "✅"
-                  line = f"{emoji} {p['action'].capitalize()} issue [#{i['number']}]({i['html_url']}) in {repo_link(e)}"
-              elif t == "PullRequestEvent" and p.get("action") in ("opened", "closed"):
+                      return f"⬆️ Pushed {n} commit{'s' if n > 1 else ''} to {repo_link(e)}"
+                  return f"⬆️ Pushed to {repo_link(e)}"
+              if t == "CreateEvent" and p.get("ref_type") == "repository":
+                  return f"🎉 Created new repository {repo_link(e)}"
+              if t == "WatchEvent":
+                  return f"⭐ Starred {repo_link(e)}"
+              if t == "ForkEvent":
+                  return f"🍴 Forked {repo_link(e)}"
+              if t == "ReleaseEvent" and p.get("action") == "published":
+                  return f"🚀 Published release {p['release']['tag_name']} in {repo_link(e)}"
+              if t == "IssuesEvent" and p.get("action") in ("opened", "closed"):
+                  emoji = "❗️" if p["action"] == "opened" else "✅"
+                  return f"{emoji} {p['action'].capitalize()} issue {item_link(e, 'issues', p['issue'])} in {repo_link(e)}"
+              if t == "PullRequestEvent" and p.get("action") in ("opened", "closed"):
                   pr = p["pull_request"]
                   if p["action"] == "opened":
                       emoji, verb = "💪", "Opened"
-                  elif pr.get("merged"):
+                  elif is_merged(pr):
                       emoji, verb = "🎯", "Merged"
                   else:
                       emoji, verb = "🗑", "Closed"
-                  line = f"{emoji} {verb} PR [#{pr['number']}]({pr['html_url']}) in {repo_link(e)}"
-              elif t == "IssueCommentEvent" and p.get("action") == "created":
-                  i = p["issue"]
-                  line = f"🗣 Commented on [#{i['number']}]({i['html_url']}) in {repo_link(e)}"
-              elif t == "PublicEvent":
-                  line = f"🔓 Made {repo_link(e)} public"
+                  return f"{emoji} {verb} PR {item_link(e, 'pull', pr)} in {repo_link(e)}"
+              if t == "IssueCommentEvent" and p.get("action") == "created":
+                  return f"🗣 Commented on {item_link(e, 'issues', p['issue'])} in {repo_link(e)}"
+              if t == "PublicEvent":
+                  return f"🔓 Made {repo_link(e)} public"
+
+          for e in events:
+              try:
+                  line = describe(e)
+              except (KeyError, TypeError):
+                  # Skip an event with an unexpected payload rather than failing the whole run
+                  continue
               if line and line not in seen:
                   seen.add(line); lines.append(line)
               if len(lines) >= 8:
