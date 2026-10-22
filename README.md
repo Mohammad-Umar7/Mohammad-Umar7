@@ -381,13 +381,13 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 
 <!--START_SECTION:activity-->
 1. ⬆️ Pushed to [Mohammad-Umar7/proofgate](https://github.com/Mohammad-Umar7/proofgate)
-2. ⬆️ Pushed to [Mohammad-Umar7/the-twelfth-stamp](https://github.com/Mohammad-Umar7/the-twelfth-stamp)
-3. ⬆️ Pushed to [bilal-feroz/ClauseRipple](https://github.com/bilal-feroz/ClauseRipple)
-4. ⬆️ Pushed to [4waiz/12th-Stamp](https://github.com/4waiz/12th-Stamp)
-5. 🍴 Forked [bilal-feroz/ClauseRipple](https://github.com/bilal-feroz/ClauseRipple)
-6. ⭐ Starred [morluto/rea](https://github.com/morluto/rea)
-7. ⭐ Starred [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB)
-8. ⬆️ Pushed to [Mohammad-Umar7/Fall2026_LA1_REPO](https://github.com/Mohammad-Umar7/Fall2026_LA1_REPO)
+2. ⭐ Starred [sandbox-quantum/switch](https://github.com/sandbox-quantum/switch)
+3. ⬆️ Pushed to [Mohammad-Umar7/the-twelfth-stamp](https://github.com/Mohammad-Umar7/the-twelfth-stamp)
+4. ⬆️ Pushed to [bilal-feroz/ClauseRipple](https://github.com/bilal-feroz/ClauseRipple)
+5. ⬆️ Pushed to [4waiz/12th-Stamp](https://github.com/4waiz/12th-Stamp)
+6. 🍴 Forked [bilal-feroz/ClauseRipple](https://github.com/bilal-feroz/ClauseRipple)
+7. ⭐ Starred [morluto/rea](https://github.com/morluto/rea)
+8. ⭐ Starred [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB)
 <!--END_SECTION:activity-->
 
 <sub>⏱ auto-refreshes every 6 hours via GitHub Actions</sub>
