@@ -399,10 +399,10 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⬆️ Pushed to [Mohammad-Umar7/Mohammad-Umar7](https://github.com/Mohammad-Umar7/Mohammad-Umar7)
-2. 💪 Opened PR [#1](https://github.com/Mohammad-Umar7/Mohammad-Umar7/pull/1) in [Mohammad-Umar7/Mohammad-Umar7](https://github.com/Mohammad-Umar7/Mohammad-Umar7)
-3. ⬆️ Pushed to [FuadAhamed91/supplyshock-ai](https://github.com/FuadAhamed91/supplyshock-ai)
-4. ⬆️ Pushed to [Mohammad-Umar7/proofgate](https://github.com/Mohammad-Umar7/proofgate)
+1. ⬆️ Pushed to [Mohammad-Umar7/proofgate](https://github.com/Mohammad-Umar7/proofgate)
+2. ⬆️ Pushed to [Mohammad-Umar7/Mohammad-Umar7](https://github.com/Mohammad-Umar7/Mohammad-Umar7)
+3. 💪 Opened PR [#1](https://github.com/Mohammad-Umar7/Mohammad-Umar7/pull/1) in [Mohammad-Umar7/Mohammad-Umar7](https://github.com/Mohammad-Umar7/Mohammad-Umar7)
+4. ⬆️ Pushed to [FuadAhamed91/supplyshock-ai](https://github.com/FuadAhamed91/supplyshock-ai)
 5. ⭐ Starred [sandbox-quantum/switch](https://github.com/sandbox-quantum/switch)
 6. ⬆️ Pushed to [Mohammad-Umar7/the-twelfth-stamp](https://github.com/Mohammad-Umar7/the-twelfth-stamp)
 7. ⬆️ Pushed to [bilal-feroz/ClauseRipple](https://github.com/bilal-feroz/ClauseRipple)
