@@ -67,6 +67,8 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 - 🏆 **12× competition podiums & honors** across UAE tech events — 6× 1st place (incl. G42's Tamkeen 5.0 Agentic AI track, Antler's **GameForward GameJam**, the **Qoder AI Hackathon** at AI Everything Abu Dhabi, the University Track at **INSPIRE '26**, and 1st of 48 teams at **Oriane × Replit**'s Build for the Video Economy), 2× 2nd, 1× 3rd, an Excellence Award at the AI Microfilm Challenge Dubai, plus finalist & championship recognition.
 - 🌍 I work in English, Urdu, Hindi and Pashto (fluent), plus basic Arabic — and I ship bilingual EN/AR interfaces by default.
 
+<img src="assets/divider.svg" width="100%" alt="" />
+
 ## 🛠️ What I Build
 
 | Category | Proof of work |
@@ -81,6 +83,8 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 | 🏭 **Industrial Automation & Digital Twins** | ASRS 2.0 smart-warehouse HMIs, Three.js digital twin, Boston Dynamics Spot programming @ EDGE Group |
 | 📄 **Research** | IEEE-published: explainable requirement-defect screening across 79+ SRS documents ([IEEE REW 2026](https://ieeexplore.ieee.org/document/11677830)) |
 | ⚡ **Hackathon Prototypes** | 12+ competition builds — a VR horror game, underground-infrastructure digital twins, creator-economy video intelligence, edge-AI airside safety, fraud intelligence, worker safety, food security, real-estate compliance, bilingual STEM education |
+
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🧰 Tech Toolbox
 
@@ -140,6 +144,8 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 
 </div>
 
+<img src="assets/divider.svg" width="100%" alt="" />
+
 ## 🎯 Current Focus
 
 - 🧠 Building Kanban Studios' core AI capability as **Chief AI Officer** — shaping the AI service catalog, next-gen **RAG & document-intelligence** demos, the **Kanban Agents** infrastructure, AI-safety frameworks, and Stripe-ready SaaS products.
@@ -147,6 +153,8 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 - 🧠 Going deeper on **agent architectures**: LangGraph state machines, tool subgraphs, and the **Model Context Protocol** (4 Anthropic certifications, May 2026).
 - 📱 Growing **XPBridge** post-launch — new AI features, retention, and store performance.
 - 🎓 On track to graduate in **2027**; aiming at agentic-AI and full-stack engineering roles where systems must be **fast, bilingual, and auditable**.
+
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🎓 Education & Experience
 
@@ -196,6 +204,8 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 | Engineering Tools | Advanced Level MATLAB Workshop — Al Ain University (Dec 2025) |
 
 </details>
+
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🚢 Flagship Projects
 
@@ -278,6 +288,8 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 - ⚙️ `React Native` `Supabase` `PostgreSQL` `AI integration` `Google Play`
 - 💡 **Why it matters:** shipping to a store — review process, crash-free sessions, real users — is a different sport from a demo repo.
 
+<img src="assets/divider.svg" width="100%" alt="" />
+
 ## 🏆 Hackathon / Competition Builds
 
 <div align="center">
@@ -307,6 +319,8 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 
 - 🗺️ **[Reach](https://github.com/Mohammad-Umar7/reach)** — AI siting copilot for Abu Dhabi: a "15-minute city" access map that finds under-served neighborhoods and uses an LLM to recommend a *real, zoning-aware* parcel for the missing facility, then simulates the improvement live. `Next.js` `MapLibre` `H3` `Groq`
 - 🌌 **[Aletheia](https://github.com/Mohammad-Umar7/aletheia)** — built for the Cognee **"The Hangover Part AI"** hackathon (Best Use of Open Source track): an AI research assistant that can **unlearn** — retract a source and watch the discredited knowledge visibly die out of its graph while answers re-derive. `Cognee (self-hosted)` `Knowledge graphs`
+
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🗂️ Featured Projects by Category
 
@@ -380,6 +394,8 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 
 </div>
 
+<img src="assets/divider.svg" width="100%" alt="" />
+
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
@@ -394,6 +410,8 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 <!--END_SECTION:activity-->
 
 <sub>⏱ auto-refreshes every 6 hours via GitHub Actions</sub>
+
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🌳 Featured Repo Map
 
