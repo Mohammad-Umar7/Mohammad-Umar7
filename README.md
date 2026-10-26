@@ -15,7 +15,7 @@
 
 <p>Agentic workflows · RAG & document intelligence · govtech decision engines · voice AI · industrial automation — built end-to-end, deployed, and auditable.</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&lines=Chief+AI+Officer+%40+Kanban+Studios;Agentic+AI+%C2%B7+LangGraph+%C2%B7+RAG+%C2%B7+Voice+AI;Full-Stack+%C2%B7+Next.js+%C2%B7+FastAPI+%C2%B7+Supabase;Industry+4.0%2F5.0+Automation+%40+EDGE+Group;IEEE-Published+Researcher+%40+Al+Ain+University;5%C3%97+1st-Place+Hackathon+Winner;Founder+%26+CTO+%40+XPBridge" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&lines=Chief+AI+Officer+%40+Kanban+Studios;Agentic+AI+%C2%B7+LangGraph+%C2%B7+RAG+%C2%B7+Voice+AI;Full-Stack+%C2%B7+Next.js+%C2%B7+FastAPI+%C2%B7+Supabase;Industry+4.0%2F5.0+Automation+%40+EDGE+Group;IEEE-Published+Researcher+%40+Al+Ain+University;6%C3%97+1st-Place+Hackathon+Winner;Founder+%26+CTO+%40+XPBridge" alt="typing intro" />
 
 <br/><br/>
 
@@ -64,7 +64,7 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 - 📄 **Undergraduate Researcher @ Al Ain University** — published my first **IEEE paper** at [**IEEE REW 2026**](https://ieeexplore.ieee.org/document/11677830): explainable requirement-defect screening, tested across 79+ SRS documents and 9,000+ requirement statements.
 - 🤖 My specialty is **agentic AI that can be trusted**: multi-agent pipelines with deterministic guardrails, compliance critics that can veto, fairness checks, and immutable audit logs — the boring parts done right.
 - 🎓 BSc Software Engineering @ **Al Ain University** (expected 2027) — **CGPA 3.73 / 4.00**, named to the **Honor List three consecutive semesters**.
-- 🏆 **11× competition podiums & honors** across UAE tech events — 5× 1st place (incl. G42's Tamkeen 5.0 Agentic AI track, the **Qoder AI Hackathon** at AI Everything Abu Dhabi, the University Track at **INSPIRE '26**, and 1st of 48 teams at **Oriane × Replit**'s Build for the Video Economy), 2× 2nd, 1× 3rd, an Excellence Award at the AI Microfilm Challenge Dubai, plus finalist & championship recognition.
+- 🏆 **12× competition podiums & honors** across UAE tech events — 6× 1st place (incl. G42's Tamkeen 5.0 Agentic AI track, Antler's **GameForward GameJam**, the **Qoder AI Hackathon** at AI Everything Abu Dhabi, the University Track at **INSPIRE '26**, and 1st of 48 teams at **Oriane × Replit**'s Build for the Video Economy), 2× 2nd, 1× 3rd, an Excellence Award at the AI Microfilm Challenge Dubai, plus finalist & championship recognition.
 - 🌍 I work in English, Urdu, Hindi and Pashto (fluent), plus basic Arabic — and I ship bilingual EN/AR interfaces by default.
 
 ## 🛠️ What I Build
@@ -80,7 +80,7 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 | 📱 **Mobile Apps** | [XPBridge](https://play.google.com/store/apps/details?id=com.xpbridge.app) — live on Google Play (React Native + Supabase); [ParentWise](https://github.com/Mohammad-Umar7/parentwise) — family money coach with Gemini features (Expo) |
 | 🏭 **Industrial Automation & Digital Twins** | ASRS 2.0 smart-warehouse HMIs, Three.js digital twin, Boston Dynamics Spot programming @ EDGE Group |
 | 📄 **Research** | IEEE-published: explainable requirement-defect screening across 79+ SRS documents ([IEEE REW 2026](https://ieeexplore.ieee.org/document/11677830)) |
-| ⚡ **Hackathon Prototypes** | 11+ competition builds — underground-infrastructure digital twins, creator-economy video intelligence, edge-AI airside safety, fraud intelligence, worker safety, food security, real-estate compliance, bilingual STEM education |
+| ⚡ **Hackathon Prototypes** | 12+ competition builds — a VR horror game, underground-infrastructure digital twins, creator-economy video intelligence, edge-AI airside safety, fraud intelligence, worker safety, food security, real-estate compliance, bilingual STEM education |
 
 ## 🧰 Tech Toolbox
 
@@ -282,14 +282,15 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 
 <div align="center">
 
-<img src="assets/awards.svg" width="100%" alt="Competition record: 5× 1st place (Qoder AI Hackathon — UnderGrid, Oriane × Replit — PRE//FLIGHT, INSPIRE '26 — AeroHalo, Tamkeen 5.0, Replit × IEC), 2× 2nd place (SooqRoot, BridgeLab AI), 3rd place (Kanban Team), Excellence Award (AI Microfilm Challenge — The True Architect), Finalist (Common Ground), Recognized (Create Apps Championship)" />
+<img src="assets/awards.svg" width="100%" alt="Competition record: 6× 1st place (GameForward GameJam — The Twelfth Stamp, Qoder AI Hackathon — UnderGrid, Oriane × Replit — PRE//FLIGHT, INSPIRE '26 — AeroHalo, Tamkeen 5.0, Replit × IEC), 2× 2nd place (SooqRoot, BridgeLab AI), 3rd place (Kanban Team), Excellence Award (AI Microfilm Challenge — The True Architect), Finalist (Common Ground), Recognized (Create Apps Championship)" />
 
 </div>
 
-> 11+ competition builds across agentic AI, digital twins, edge AI & computer vision, creator-economy tools, safety tech, education, sustainability, and fintech — in front of some of the UAE's toughest judging panels.
+> 12+ competition builds across agentic AI, digital twins, games & VR, edge AI & computer vision, creator-economy tools, safety tech, education, sustainability, and fintech — in front of some of the UAE's toughest judging panels.
 
 | Result | Event | Build | What it does |
 |---|---|---|---|
+| 🥇 **1st Place** (#1 overall) | **GameForward GameJam: Mythos Collide** — Antler | **The Twelfth Stamp** | VR horror game: a mysterious passport carries you through 11 countries as you escape different realities. Runs on PC, in the browser and on Meta Quest 3; I was Lead Systems & Gameplay Engineer. Ranked #1 overall and for The Collision and Fun. [Play it →](https://mohammad-umer7.itch.io/the-twelfth-stamp) · [Gameplay video →](https://youtu.be/EW7DYY-Rcy4) |
 | 🥇 **1st Place** | **Qoder AI Hackathon** — AI Everything Abu Dhabi 2026 at ADNEC (Alibaba Cloud × Qoder, with ZAKA) | **UnderGrid** | Live 3D digital twin of downtown Abu Dhabi that catches underground infrastructure failures (water, power, telecom, sewage, district cooling) before they surface: six AI agents link weak sensor signals to one cause, find the pipe at risk, predict when it could burst, map who's affected and plan the repair, with Qwen explaining every decision in English or Arabic. In the demo, an early fix costs AED 660K vs. AED 6.6M+ after a burst. [Demo video →](https://youtu.be/88gg88zEUsk) · [Live →](https://undergrid.kanbanstudios.ae/) · [Code →](https://github.com/bilal-feroz/qoder-hackathon) |
 | 🥇 **1st Place** (of 48 teams) | **Build for the Video Economy Hackathon** — Oriane × Replit, Dubai | **PRE//FLIGHT** | Tells brands whether their campaign idea has already been done — *before* they spend money shooting it. Paste a brief: it searches real Instagram and TikTok videos through Oriane, shows how crowded the idea is and whether it's early or late, then points to where there's still room. [Demo video →](https://www.youtube.com/watch?v=g_B3rjgLcC4) |
 | 🥇 **1st Place** (University Track) | **INSPIRE '26** — IEEE SSCS AUS Chapter, American University of Sharjah (100+ university teams from across the UAE) | **AeroHalo** | AI-powered *predictive* airside-safety system for the Smart Aviation Systems challenge. Edge AI, computer vision, and real-time sensing on an **Arduino UNO Q** keep a virtual safety perimeter around the aircraft, track what's approaching (distance, heading, closing speed), and escalate an *explainable* warning before contact. Design rule: if it fails, it fails safe — never silent. [Demo video →](https://www.youtube.com/watch?v=qttMWsiZW1k) |

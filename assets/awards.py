@@ -22,11 +22,12 @@ MEDALS = {
 
 # (medal, sparkle class or None, header, title, subtitle)
 TILES = [
-    ("gold",   "spk",      "QODER AI HACKATHON — AI EVERYTHING AD",   "UnderGrid",                   "1st Place · 6-agent digital twin of underground Abu Dhabi"),
+    ("gold",   "spk",      "GAMEFORWARD GAMEJAM: MYTHOS COLLIDE",     "The Twelfth Stamp",           "1st Place · #1 overall · VR horror game for Meta Quest 3"),
+    ("gold",   "spk spk2", "QODER AI HACKATHON — AI EVERYTHING AD",   "UnderGrid",                   "1st Place · 6-agent digital twin of underground Abu Dhabi"),
     ("gold",   "spk spk2", "ORIANE × REPLIT HACKATHON — DUBAI",       "PRE//FLIGHT",                 "1st Place · 48 teams · Build for the Video Economy"),
-    ("gold",   "spk spk2", "INSPIRE ’26 — IEEE SSCS AUS CHAPTER",     "AeroHalo",                    "1st Place · University Track · predictive airside safety"),
+    ("gold",   "spk",      "INSPIRE ’26 — IEEE SSCS AUS CHAPTER",     "AeroHalo",                    "1st Place · University Track · predictive airside safety"),
     ("gold",   "spk",      "TAMKEEN 5.0 — G42 × AD YOUTH COUNCIL",    "Agentic Refund Intelligence", "1st Place · Advanced Track · Agentic AI"),
-    ("gold",   "spk",      "REPLIT × IEC BUILDATHON — MBZUAI",        "Starkz AI",                   "1st Place · AI safety companion for outdoor crews"),
+    ("gold",   "spk spk2", "REPLIT × IEC BUILDATHON — MBZUAI",        "Starkz AI",                   "1st Place · AI safety companion for outdoor crews"),
     ("silver", None,       "EMIRATES AGRICULTURE HACKATHON 2026",     "SooqRoot",                    "2nd Place · awarded by UAE Climate Minister"),
     ("silver", None,       "SAFE AI CUP 2026 — UNIVERSITY OF DUBAI",  "BridgeLab AI",                "2nd Place · bilingual EN/AR STEM lab coach"),
     ("bronze", None,       "C0MPILED-2 HACKATHON — UAE",              "Kanban Team",                 "3rd Place · Yas Marina Circuit · 60+ submissions"),
