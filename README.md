@@ -399,14 +399,14 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⬆️ Pushed to [FuadAhamed91/supplyshock-ai](https://github.com/FuadAhamed91/supplyshock-ai)
-2. ⬆️ Pushed to [Mohammad-Umar7/proofgate](https://github.com/Mohammad-Umar7/proofgate)
-3. ⬆️ Pushed to [Mohammad-Umar7/Mohammad-Umar7](https://github.com/Mohammad-Umar7/Mohammad-Umar7)
-4. 💪 Opened PR [#1](https://github.com/Mohammad-Umar7/Mohammad-Umar7/pull/1) in [Mohammad-Umar7/Mohammad-Umar7](https://github.com/Mohammad-Umar7/Mohammad-Umar7)
-5. ⭐ Starred [sandbox-quantum/switch](https://github.com/sandbox-quantum/switch)
-6. ⬆️ Pushed to [Mohammad-Umar7/the-twelfth-stamp](https://github.com/Mohammad-Umar7/the-twelfth-stamp)
-7. ⬆️ Pushed to [bilal-feroz/ClauseRipple](https://github.com/bilal-feroz/ClauseRipple)
-8. ⬆️ Pushed to [4waiz/12th-Stamp](https://github.com/4waiz/12th-Stamp)
+1. ⬆️ Pushed to [Mohammad-Umar7/UAE-Hackathon](https://github.com/Mohammad-Umar7/UAE-Hackathon)
+2. ⬆️ Pushed to [FuadAhamed91/supplyshock-ai](https://github.com/FuadAhamed91/supplyshock-ai)
+3. ⬆️ Pushed to [Mohammad-Umar7/proofgate](https://github.com/Mohammad-Umar7/proofgate)
+4. ⬆️ Pushed to [Mohammad-Umar7/Mohammad-Umar7](https://github.com/Mohammad-Umar7/Mohammad-Umar7)
+5. 💪 Opened PR [#1](https://github.com/Mohammad-Umar7/Mohammad-Umar7/pull/1) in [Mohammad-Umar7/Mohammad-Umar7](https://github.com/Mohammad-Umar7/Mohammad-Umar7)
+6. ⭐ Starred [sandbox-quantum/switch](https://github.com/sandbox-quantum/switch)
+7. ⬆️ Pushed to [Mohammad-Umar7/the-twelfth-stamp](https://github.com/Mohammad-Umar7/the-twelfth-stamp)
+8. ⬆️ Pushed to [bilal-feroz/ClauseRipple](https://github.com/bilal-feroz/ClauseRipple)
 <!--END_SECTION:activity-->
 
 <sub>⏱ auto-refreshes every 6 hours via GitHub Actions</sub>
