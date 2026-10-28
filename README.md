@@ -405,8 +405,6 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 4. ⬆️ Pushed to [Mohammad-Umar7/Mohammad-Umar7](https://github.com/Mohammad-Umar7/Mohammad-Umar7)
 5. 💪 Opened PR [#1](https://github.com/Mohammad-Umar7/Mohammad-Umar7/pull/1) in [Mohammad-Umar7/Mohammad-Umar7](https://github.com/Mohammad-Umar7/Mohammad-Umar7)
 6. ⭐ Starred [sandbox-quantum/switch](https://github.com/sandbox-quantum/switch)
-7. ⬆️ Pushed to [Mohammad-Umar7/the-twelfth-stamp](https://github.com/Mohammad-Umar7/the-twelfth-stamp)
-8. ⬆️ Pushed to [bilal-feroz/ClauseRipple](https://github.com/bilal-feroz/ClauseRipple)
 <!--END_SECTION:activity-->
 
 <sub>⏱ auto-refreshes every 6 hours via GitHub Actions</sub>
