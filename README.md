@@ -399,8 +399,8 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Mohammad-Umar7/Remaster/pull/1) in [Mohammad-Umar7/Remaster](https://github.com/Mohammad-Umar7/Remaster)
-2. ⬆️ Pushed to [Mohammad-Umar7/haqq-uae-tenant-agent](https://github.com/Mohammad-Umar7/haqq-uae-tenant-agent)
+1. ⬆️ Pushed to [Mohammad-Umar7/haqq-uae-tenant-agent](https://github.com/Mohammad-Umar7/haqq-uae-tenant-agent)
+2. 💪 Opened PR [#1](https://github.com/Mohammad-Umar7/Remaster/pull/1) in [Mohammad-Umar7/Remaster](https://github.com/Mohammad-Umar7/Remaster)
 3. ⬆️ Pushed to [Mohammad-Umar7/Remaster](https://github.com/Mohammad-Umar7/Remaster)
 4. ⬆️ Pushed to [Mohammad-Umar7/UAE-Hackathon](https://github.com/Mohammad-Umar7/UAE-Hackathon)
 5. ⬆️ Pushed to [Mohammad-Umar7/always-falling-film](https://github.com/Mohammad-Umar7/always-falling-film)
