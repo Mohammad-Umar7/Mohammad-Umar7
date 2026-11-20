@@ -399,14 +399,14 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔓 Made [Mohammad-Umar7/b787-actuator-health-monitor](https://github.com/Mohammad-Umar7/b787-actuator-health-monitor) public
-2. ⬆️ Pushed to [Mohammad-Umar7/Remaster](https://github.com/Mohammad-Umar7/Remaster)
-3. ⬆️ Pushed to [Mohammad-Umar7/haqq-uae-tenant-agent](https://github.com/Mohammad-Umar7/haqq-uae-tenant-agent)
-4. 💪 Opened PR [#1](https://github.com/Mohammad-Umar7/Remaster/pull/1) in [Mohammad-Umar7/Remaster](https://github.com/Mohammad-Umar7/Remaster)
-5. ⬆️ Pushed to [Mohammad-Umar7/UAE-Hackathon](https://github.com/Mohammad-Umar7/UAE-Hackathon)
-6. ⬆️ Pushed to [Mohammad-Umar7/always-falling-film](https://github.com/Mohammad-Umar7/always-falling-film)
-7. ⬆️ Pushed to [Mohammad-Umar7/entangled-quantum](https://github.com/Mohammad-Umar7/entangled-quantum)
-8. 🔓 Made [Mohammad-Umar7/always-falling-film](https://github.com/Mohammad-Umar7/always-falling-film) public
+1. ⬆️ Pushed to [Mohammad-Umar7/CoolAhead-AI](https://github.com/Mohammad-Umar7/CoolAhead-AI)
+2. 🔓 Made [Mohammad-Umar7/b787-actuator-health-monitor](https://github.com/Mohammad-Umar7/b787-actuator-health-monitor) public
+3. ⬆️ Pushed to [Mohammad-Umar7/Remaster](https://github.com/Mohammad-Umar7/Remaster)
+4. ⬆️ Pushed to [Mohammad-Umar7/haqq-uae-tenant-agent](https://github.com/Mohammad-Umar7/haqq-uae-tenant-agent)
+5. 💪 Opened PR [#1](https://github.com/Mohammad-Umar7/Remaster/pull/1) in [Mohammad-Umar7/Remaster](https://github.com/Mohammad-Umar7/Remaster)
+6. ⬆️ Pushed to [Mohammad-Umar7/UAE-Hackathon](https://github.com/Mohammad-Umar7/UAE-Hackathon)
+7. ⬆️ Pushed to [Mohammad-Umar7/always-falling-film](https://github.com/Mohammad-Umar7/always-falling-film)
+8. ⬆️ Pushed to [Mohammad-Umar7/entangled-quantum](https://github.com/Mohammad-Umar7/entangled-quantum)
 <!--END_SECTION:activity-->
 
 <sub>⏱ auto-refreshes every 6 hours via GitHub Actions</sub>
