@@ -399,14 +399,14 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⬆️ Pushed to [Mohammad-Umar7/one-more-story](https://github.com/Mohammad-Umar7/one-more-story)
-2. ⬆️ Pushed to [Mohammad-Umar7/CoolAhead-AI](https://github.com/Mohammad-Umar7/CoolAhead-AI)
-3. ⬆️ Pushed to [Mohammad-Umar7/FALAJLINE](https://github.com/Mohammad-Umar7/FALAJLINE)
-4. 🔓 Made [Mohammad-Umar7/b787-actuator-health-monitor](https://github.com/Mohammad-Umar7/b787-actuator-health-monitor) public
-5. ⬆️ Pushed to [Mohammad-Umar7/Remaster](https://github.com/Mohammad-Umar7/Remaster)
-6. ⬆️ Pushed to [Mohammad-Umar7/haqq-uae-tenant-agent](https://github.com/Mohammad-Umar7/haqq-uae-tenant-agent)
-7. 💪 Opened PR [#1](https://github.com/Mohammad-Umar7/Remaster/pull/1) in [Mohammad-Umar7/Remaster](https://github.com/Mohammad-Umar7/Remaster)
-8. ⬆️ Pushed to [Mohammad-Umar7/UAE-Hackathon](https://github.com/Mohammad-Umar7/UAE-Hackathon)
+1. 🔓 Made [Mohammad-Umar7/raqib](https://github.com/Mohammad-Umar7/raqib) public
+2. ⬆️ Pushed to [Mohammad-Umar7/one-more-story](https://github.com/Mohammad-Umar7/one-more-story)
+3. ⬆️ Pushed to [Mohammad-Umar7/CoolAhead-AI](https://github.com/Mohammad-Umar7/CoolAhead-AI)
+4. ⬆️ Pushed to [Mohammad-Umar7/FALAJLINE](https://github.com/Mohammad-Umar7/FALAJLINE)
+5. 🔓 Made [Mohammad-Umar7/b787-actuator-health-monitor](https://github.com/Mohammad-Umar7/b787-actuator-health-monitor) public
+6. ⬆️ Pushed to [Mohammad-Umar7/Remaster](https://github.com/Mohammad-Umar7/Remaster)
+7. ⬆️ Pushed to [Mohammad-Umar7/haqq-uae-tenant-agent](https://github.com/Mohammad-Umar7/haqq-uae-tenant-agent)
+8. 💪 Opened PR [#1](https://github.com/Mohammad-Umar7/Remaster/pull/1) in [Mohammad-Umar7/Remaster](https://github.com/Mohammad-Umar7/Remaster)
 <!--END_SECTION:activity-->
 
 <sub>⏱ auto-refreshes every 6 hours via GitHub Actions</sub>
