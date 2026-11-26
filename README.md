@@ -399,14 +399,14 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith)
-2. 🔓 Made [Mohammad-Umar7/raqib](https://github.com/Mohammad-Umar7/raqib) public
-3. ⬆️ Pushed to [Mohammad-Umar7/one-more-story](https://github.com/Mohammad-Umar7/one-more-story)
-4. ⬆️ Pushed to [Mohammad-Umar7/CoolAhead-AI](https://github.com/Mohammad-Umar7/CoolAhead-AI)
-5. ⬆️ Pushed to [Mohammad-Umar7/FALAJLINE](https://github.com/Mohammad-Umar7/FALAJLINE)
-6. 🔓 Made [Mohammad-Umar7/b787-actuator-health-monitor](https://github.com/Mohammad-Umar7/b787-actuator-health-monitor) public
-7. ⬆️ Pushed to [Mohammad-Umar7/Remaster](https://github.com/Mohammad-Umar7/Remaster)
-8. ⬆️ Pushed to [Mohammad-Umar7/haqq-uae-tenant-agent](https://github.com/Mohammad-Umar7/haqq-uae-tenant-agent)
+1. ⬆️ Pushed to [Mohammad-Umar7/raqib](https://github.com/Mohammad-Umar7/raqib)
+2. ⭐ Starred [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith)
+3. 🔓 Made [Mohammad-Umar7/raqib](https://github.com/Mohammad-Umar7/raqib) public
+4. ⬆️ Pushed to [Mohammad-Umar7/one-more-story](https://github.com/Mohammad-Umar7/one-more-story)
+5. ⬆️ Pushed to [Mohammad-Umar7/CoolAhead-AI](https://github.com/Mohammad-Umar7/CoolAhead-AI)
+6. ⬆️ Pushed to [Mohammad-Umar7/FALAJLINE](https://github.com/Mohammad-Umar7/FALAJLINE)
+7. 🔓 Made [Mohammad-Umar7/b787-actuator-health-monitor](https://github.com/Mohammad-Umar7/b787-actuator-health-monitor) public
+8. ⬆️ Pushed to [Mohammad-Umar7/Remaster](https://github.com/Mohammad-Umar7/Remaster)
 <!--END_SECTION:activity-->
 
 <sub>⏱ auto-refreshes every 6 hours via GitHub Actions</sub>
