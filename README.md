@@ -399,14 +399,14 @@ I'm a Software Engineering student in Abu Dhabi who builds AI products the whole
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Mohammad-Umar7/experiment-doctor/pull/2) in [Mohammad-Umar7/experiment-doctor](https://github.com/Mohammad-Umar7/experiment-doctor)
-2. 🚀 Published release v0.1.0 in [Mohammad-Umar7/experiment-doctor](https://github.com/Mohammad-Umar7/experiment-doctor)
-3. 💪 Opened PR [#1](https://github.com/Mohammad-Umar7/experiment-doctor/pull/1) in [Mohammad-Umar7/experiment-doctor](https://github.com/Mohammad-Umar7/experiment-doctor)
-4. ⬆️ Pushed to [Mohammad-Umar7/raqib](https://github.com/Mohammad-Umar7/raqib)
-5. ⭐ Starred [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith)
-6. 🔓 Made [Mohammad-Umar7/raqib](https://github.com/Mohammad-Umar7/raqib) public
-7. ⬆️ Pushed to [Mohammad-Umar7/one-more-story](https://github.com/Mohammad-Umar7/one-more-story)
-8. ⬆️ Pushed to [Mohammad-Umar7/CoolAhead-AI](https://github.com/Mohammad-Umar7/CoolAhead-AI)
+1. ⬆️ Pushed to [Mohammad-Umar7/experiment-doctor](https://github.com/Mohammad-Umar7/experiment-doctor)
+2. 🚀 Published release v0.2.0 in [Mohammad-Umar7/experiment-doctor](https://github.com/Mohammad-Umar7/experiment-doctor)
+3. 💪 Opened PR [#2](https://github.com/Mohammad-Umar7/experiment-doctor/pull/2) in [Mohammad-Umar7/experiment-doctor](https://github.com/Mohammad-Umar7/experiment-doctor)
+4. 🚀 Published release v0.1.0 in [Mohammad-Umar7/experiment-doctor](https://github.com/Mohammad-Umar7/experiment-doctor)
+5. 💪 Opened PR [#1](https://github.com/Mohammad-Umar7/experiment-doctor/pull/1) in [Mohammad-Umar7/experiment-doctor](https://github.com/Mohammad-Umar7/experiment-doctor)
+6. ⬆️ Pushed to [Mohammad-Umar7/raqib](https://github.com/Mohammad-Umar7/raqib)
+7. ⭐ Starred [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith)
+8. 🔓 Made [Mohammad-Umar7/raqib](https://github.com/Mohammad-Umar7/raqib) public
 <!--END_SECTION:activity-->
 
 <sub>⏱ auto-refreshes every 6 hours via GitHub Actions</sub>
